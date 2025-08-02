@@ -7,35 +7,35 @@
   <color name="bg1" value="#2e1f1f"/>
   <color name="bg2" value="#3d2929"/>
   <color name="bg3" value="#4c3434"/>
-  <color name="fg1" value="#f9e6d2"/>
-  <color name="fg2" value="#f6dabc"/>
-  <color name="fg3" value="#f3cda5"/>
-  <color name="hl1" value="#a27676"/>
-  <color name="hl2" value="#895d5d"/>
-  <color name="hl3" value="#6a4848"/>
+  <color name="fg1" value="#f0d9c2"/>
+  <color name="fg2" value="#dfc09f"/>
+  <color name="fg3" value="#c9a782"/>
+  <color name="hl1" value="#af8d6a"/>
+  <color name="hl2" value="#957450"/>
+  <color name="hl3" value="#745a3e"/>
 
-  <color name="m1" value="#c65371"/>
-  <color name="m2" value="#a366cc"/>
-  <color name="m3" value="#667ccc"/>
-  <color name="m4" value="#5bbeba"/>
-  <color name="m5" value="#6486b4"/>
-  <color name="m6" value="#66ccad"/>
-  <color name="s1" value="#d98ca1"/>
-  <color name="s2" value="#c69fdf"/>
-  <color name="s3" value="#9faddf"/>
-  <color name="s4" value="#92d3d1"/>
-  <color name="s5" value="#98aecd"/>
-  <color name="s6" value="#9fdfcc"/>
+  <color name="m1" value="#859ce0"/>
+  <color name="m2" value="#eccf79"/>
+  <color name="m3" value="#7dcde8"/>
+  <color name="m4" value="#f49271"/>
+  <color name="m5" value="#85e0b3"/>
+  <color name="m6" value="#f4b571"/>
+  <color name="s1" value="#aebdea"/>
+  <color name="s2" value="#f2dfa6"/>
+  <color name="s3" value="#a8def0"/>
+  <color name="s4" value="#f8b6a0"/>
+  <color name="s5" value="#aeeacc"/>
+  <color name="s6" value="#f8cda0"/>
 
   <!-- global -->
-  <style name="text"                        foreground="fg1" background="bg2"/>
+  <style name="text"                        foreground="fg1" background="bg1"/>
   <style name="selection"                   foreground="fg1" background="hl1"/>
   <style name="cursor"                      foreground="fg1"/>
   <style name="secondary-cursor"            foreground="fg1"/>
   <style name="selection-unfocused"         foreground="fg1" background="hl2"/>
   <style name="current-line"                background="hl3"/>
-  <style name="line-numbers"                background="bg1" foreground="fg3"/>
-  <style name="background-pattern"          background="bg1"/>
+  <style name="line-numbers"                background="bg2" foreground="fg3"/>
+  <style name="background-pattern"          background="bg3"/>
   <style name="bracket-match"               foreground="s6" background="fg1"/>
   <style name="bracket-mismatch"            foreground="fg1" background="s1"/>
   <style name="search-match"                foreground="fg1" background="hl2"/>
@@ -53,13 +53,13 @@
   <style name="def:string"                  foreground="m4"/>
   <style name="def:net-address-in-comment"  foreground="fg3" italic="false" underline="true"/>
   <style name="def:underlined"              italic="false" underline="true"/>
-  <style name="def:note"                    foreground="fg2" background="bg2" bold="true"/>
+  <style name="def:note"                    foreground="fg2" background="bg1" bold="true"/>
   <style name="def:error"                   foreground="m1" bold="true"/>
   <style name="def:escape"                  foreground="m1"/>
   <style name="def:shebang"                 foreground="m1" bold="false"/>
   <style name="def:doc-comment-element"     italic="true"/>
   <style name="def:identifier"              foreground="s5" bold="false"/>
-  <style name="def:specials"                foreground="s5" background="purple"/>
+  <style name="def:specials"                foreground="s5" background="bg1"/>
   <style name="def:variable"                foreground="m5"/>
   <style name="def:boolean"                 foreground="s3" bold="true"/>
   <style name="def:constant"                foreground="m5"/>

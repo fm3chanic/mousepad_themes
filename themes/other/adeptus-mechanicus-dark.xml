@@ -4,38 +4,38 @@
     <_description>adeptus-mechanicus-dark by fm3chanic</_description>
   
   <!-- color values  -->
-  <color name="bg1" value="#26100d"/>
-  <color name="bg2" value="#391813"/>
-  <color name="bg3" value="#4d1f19"/>
-  <color name="fg1" value="#cccccc"/>
-  <color name="fg2" value="#b9b9b9"/>
-  <color name="fg3" value="#ababab"/>
-  <color name="hl1" value="#87362c"/>
-  <color name="hl2" value="#742f25"/>
-  <color name="hl3" value="#60271f"/>
+  <color name="bg1" value="#321e1b"/>
+  <color name="bg2" value="#422824"/>
+  <color name="bg3" value="#53322d"/>
+  <color name="fg1" value="#d1d8e0"/>
+  <color name="fg2" value="#b6bfc9"/>
+  <color name="fg3" value="#9da5af"/>
+  <color name="hl1" value="#878c92"/>
+  <color name="hl2" value="#6d7278"/>
+  <color name="hl3" value="#55595e"/>
 
-  <color name="m1" value="#b34d4d"/>
-  <color name="m2" value="#b3664d"/>
-  <color name="m3" value="#818198"/>
-  <color name="m4" value="#9f7a7a"/>
-  <color name="m5" value="#d19847"/>
-  <color name="m6" value="#879289"/>
-  <color name="s1" value="#c98282"/>
-  <color name="s2" value="#d1a394"/>
-  <color name="s3" value="#ababba"/>
-  <color name="s4" value="#bfa6a6"/>
-  <color name="s5" value="#e0ba85"/>
-  <color name="s6" value="#afb6b0"/>
+  <color name="m1" value="#8585e0"/>
+  <color name="m2" value="#e8b37d"/>
+  <color name="m3" value="#7db3e8"/>
+  <color name="m4" value="#e0c985"/>
+  <color name="m5" value="#7de8e8"/>
+  <color name="m6" value="#e08585"/>
+  <color name="s1" value="#aeaeea"/>
+  <color name="s2" value="#f0cca8"/>
+  <color name="s3" value="#a8ccf0"/>
+  <color name="s4" value="#eadbae"/>
+  <color name="s5" value="#a8f0f0"/>
+  <color name="s6" value="#eaaeae"/>
 
   <!-- global -->
-  <style name="text"                        foreground="fg1" background="bg2"/>
+  <style name="text"                        foreground="fg1" background="bg1"/>
   <style name="selection"                   foreground="fg1" background="hl1"/>
   <style name="cursor"                      foreground="fg1"/>
   <style name="secondary-cursor"            foreground="fg1"/>
   <style name="selection-unfocused"         foreground="fg1" background="hl2"/>
   <style name="current-line"                background="hl3"/>
-  <style name="line-numbers"                background="bg1" foreground="fg3"/>
-  <style name="background-pattern"          background="bg1"/>
+  <style name="line-numbers"                background="bg2" foreground="fg3"/>
+  <style name="background-pattern"          background="bg3"/>
   <style name="bracket-match"               foreground="s6" background="fg1"/>
   <style name="bracket-mismatch"            foreground="fg1" background="s1"/>
   <style name="search-match"                foreground="fg1" background="hl2"/>
@@ -53,13 +53,13 @@
   <style name="def:string"                  foreground="m4"/>
   <style name="def:net-address-in-comment"  foreground="fg3" italic="false" underline="true"/>
   <style name="def:underlined"              italic="false" underline="true"/>
-  <style name="def:note"                    foreground="fg2" background="bg2" bold="true"/>
+  <style name="def:note"                    foreground="fg2" background="bg1" bold="true"/>
   <style name="def:error"                   foreground="m1" bold="true"/>
   <style name="def:escape"                  foreground="m1"/>
   <style name="def:shebang"                 foreground="m1" bold="false"/>
   <style name="def:doc-comment-element"     italic="true"/>
   <style name="def:identifier"              foreground="s5" bold="false"/>
-  <style name="def:specials"                foreground="s5" background="purple"/>
+  <style name="def:specials"                foreground="s5" background="bg1"/>
   <style name="def:variable"                foreground="m5"/>
   <style name="def:boolean"                 foreground="s3" bold="true"/>
   <style name="def:constant"                foreground="m5"/>

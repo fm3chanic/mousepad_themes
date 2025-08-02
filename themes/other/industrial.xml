@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="aquwa-light" _name="aquwa-light" version="1.0">
+<style-scheme id="industrial" _name="industrial" version="1.0">
     <author>fm3chanic</author>
-    <_description>aquwa-light by fm3chanic</_description>
+    <_description>industrial by fm3chanic</_description>
   
   <!-- color values  -->
-  <color name="bg1" value="#c8eaea"/>
-  <color name="bg2" value="#b5e3e3"/>
-  <color name="bg3" value="#a3dcdc"/>
-  <color name="fg1" value="#150f3d"/>
-  <color name="fg2" value="#292060"/>
-  <color name="fg3" value="#41367d"/>
-  <color name="hl1" value="#5c5095"/>
-  <color name="hl2" value="#756aaf"/>
-  <color name="hl3" value="#948bc1"/>
+  <color name="bg1" value="#1a1a1a"/>
+  <color name="bg2" value="#262626"/>
+  <color name="bg3" value="#333333"/>
+  <color name="fg1" value="#f2f2f2"/>
+  <color name="fg2" value="#cccccc"/>
+  <color name="fg3" value="#a6a6a6"/>
+  <color name="hl1" value="#808080"/>
+  <color name="hl2" value="#666666"/>
+  <color name="hl3" value="#4d4d4d"/>
 
-  <color name="m1" value="#24248f"/>
-  <color name="m2" value="#8f2459"/>
-  <color name="m3" value="#8f248f"/>
-  <color name="m4" value="#24598f"/>
-  <color name="m5" value="#59248f"/>
-  <color name="m6" value="#248f8f"/>
-  <color name="s1" value="#2e2eb8"/>
-  <color name="s2" value="#b82e73"/>
-  <color name="s3" value="#b82eb8"/>
-  <color name="s4" value="#2e73b8"/>
-  <color name="s5" value="#732eb8"/>
-  <color name="s6" value="#2eb8b8"/>
+  <color name="m1" value="#5e5eed"/>
+  <color name="m2" value="#eda65e"/>
+  <color name="m3" value="#5ea6ed"/>
+  <color name="m4" value="#5eed5e"/>
+  <color name="m5" value="#5eeded"/>
+  <color name="m6" value="#eded5e"/>
+  <color name="s1" value="#8c8cf2"/>
+  <color name="s2" value="#f2bf8c"/>
+  <color name="s3" value="#8cbff2"/>
+  <color name="s4" value="#8cf28c"/>
+  <color name="s5" value="#8cf2f2"/>
+  <color name="s6" value="#f2f28c"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

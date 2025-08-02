@@ -28,14 +28,14 @@
   <color name="s6" value="#d98c9f"/>
 
   <!-- global -->
-  <style name="text"                        foreground="fg1" background="bg2"/>
+  <style name="text"                        foreground="fg1" background="bg1"/>
   <style name="selection"                   foreground="fg1" background="hl1"/>
   <style name="cursor"                      foreground="fg1"/>
   <style name="secondary-cursor"            foreground="fg1"/>
   <style name="selection-unfocused"         foreground="fg1" background="hl2"/>
   <style name="current-line"                background="hl3"/>
-  <style name="line-numbers"                background="bg1" foreground="fg3"/>
-  <style name="background-pattern"          background="bg1"/>
+  <style name="line-numbers"                background="bg2" foreground="fg3"/>
+  <style name="background-pattern"          background="bg3"/>
   <style name="bracket-match"               foreground="s6" background="fg1"/>
   <style name="bracket-mismatch"            foreground="fg1" background="s1"/>
   <style name="search-match"                foreground="fg1" background="hl2"/>
@@ -53,13 +53,13 @@
   <style name="def:string"                  foreground="m4"/>
   <style name="def:net-address-in-comment"  foreground="fg3" italic="false" underline="true"/>
   <style name="def:underlined"              italic="false" underline="true"/>
-  <style name="def:note"                    foreground="fg2" background="bg2" bold="true"/>
+  <style name="def:note"                    foreground="fg2" background="bg1" bold="true"/>
   <style name="def:error"                   foreground="m1" bold="true"/>
   <style name="def:escape"                  foreground="m1"/>
   <style name="def:shebang"                 foreground="m1" bold="false"/>
   <style name="def:doc-comment-element"     italic="true"/>
   <style name="def:identifier"              foreground="s5" bold="false"/>
-  <style name="def:specials"                foreground="s5" background="purple"/>
+  <style name="def:specials"                foreground="s5" background="bg1"/>
   <style name="def:variable"                foreground="m5"/>
   <style name="def:boolean"                 foreground="s3" bold="true"/>
   <style name="def:constant"                foreground="m5"/>
