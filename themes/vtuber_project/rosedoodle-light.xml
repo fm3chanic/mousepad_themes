@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="ellie-minibot-codebug" _name="ellie-minibot-codebug" version="1.0">
+<style-scheme id="rosedoodle-light" _name="rosedoodle-light" version="1.0">
     <author>fm3chanic</author>
-    <_description>ellie-minibot-codebug by fm3chanic</_description>
+    <_description>rosedoodle-light by fm3chanic</_description>
   
   <!-- color values  -->
-  <color name="bg1" value="#f5e6bd"/>
-  <color name="bg2" value="#f2dea6"/>
-  <color name="bg3" value="#eed590"/>
-  <color name="fg1" value="#392713"/>
-  <color name="fg2" value="#604120"/>
-  <color name="fg3" value="#865b2d"/>
-  <color name="hl1" value="#ac7539"/>
-  <color name="hl2" value="#c68e53"/>
-  <color name="hl3" value="#d2a779"/>
+  <color name="bg1" value="#e4cde2"/>
+  <color name="bg2" value="#dbbdd9"/>
+  <color name="bg3" value="#d2accf"/>
+  <color name="fg1" value="#230f3d"/>
+  <color name="fg2" value="#3c235c"/>
+  <color name="fg3" value="#54367d"/>
+  <color name="hl1" value="#5c8a7e"/>
+  <color name="hl2" value="#75a398"/>
+  <color name="hl3" value="#94b8af"/>
 
-  <color name="m1" value="#542673"/>
-  <color name="m2" value="#2d4386"/>
-  <color name="m3" value="#4a446f"/>
-  <color name="m4" value="#178282"/>
-  <color name="m5" value="#26734d"/>
-  <color name="m6" value="#1b647e"/>
-  <color name="s1" value="#703399"/>
-  <color name="s2" value="#3956ac"/>
-  <color name="s3" value="#5f578e"/>
-  <color name="s4" value="#1fadad"/>
-  <color name="s5" value="#339966"/>
-  <color name="s6" value="#2485a8"/>
+  <color name="m1" value="#7e7e1b"/>
+  <color name="m2" value="#1f5993"/>
+  <color name="m3" value="#93591f"/>
+  <color name="m4" value="#1b7e7e"/>
+  <color name="m5" value="#8a6b0f"/>
+  <color name="m6" value="#1f7a4d"/>
+  <color name="s1" value="#a8a824"/>
+  <color name="s2" value="#2873bd"/>
+  <color name="s3" value="#bd7328"/>
+  <color name="s4" value="#24a8a8"/>
+  <color name="s5" value="#b88f14"/>
+  <color name="s6" value="#2aa266"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

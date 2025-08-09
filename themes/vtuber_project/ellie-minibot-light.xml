@@ -4,28 +4,28 @@
     <_description>ellie-minibot-light by fm3chanic</_description>
   
   <!-- color values  -->
-  <color name="bg1" value="#d5d5dd"/>
-  <color name="bg2" value="#c6c6d2"/>
-  <color name="bg3" value="#b8b8c6"/>
-  <color name="fg1" value="#0f323d"/>
-  <color name="fg2" value="#205160"/>
-  <color name="fg3" value="#366d7d"/>
-  <color name="hl1" value="#508695"/>
-  <color name="hl2" value="#6aa0af"/>
-  <color name="hl3" value="#8bb5c1"/>
+  <color name="bg1" value="#d5d7dd"/>
+  <color name="bg2" value="#c6c9d2"/>
+  <color name="bg3" value="#b8bcc6"/>
+  <color name="fg1" value="#1f222d"/>
+  <color name="fg2" value="#34394b"/>
+  <color name="fg3" value="#495069"/>
+  <color name="hl1" value="#666c7f"/>
+  <color name="hl2" value="#808699"/>
+  <color name="hl3" value="#9ca1b0"/>
 
-  <color name="m1" value="#2d2d86"/>
-  <color name="m2" value="#aa5908"/>
-  <color name="m3" value="#1b9898"/>
-  <color name="m4" value="#998a00"/>
-  <color name="m5" value="#1b5998"/>
-  <color name="m6" value="#aa7a08"/>
-  <color name="s1" value="#3939ac"/>
-  <color name="s2" value="#db730a"/>
-  <color name="s3" value="#22c3c3"/>
-  <color name="s4" value="#ccb800"/>
-  <color name="s5" value="#2273c3"/>
-  <color name="s6" value="#db9d0a"/>
+  <color name="m1" value="#1b647e"/>
+  <color name="m2" value="#917a08"/>
+  <color name="m3" value="#178282"/>
+  <color name="m4" value="#8a670f"/>
+  <color name="m5" value="#263773"/>
+  <color name="m6" value="#8a4d0f"/>
+  <color name="s1" value="#2485a8"/>
+  <color name="s2" value="#c2a30a"/>
+  <color name="s3" value="#1fadad"/>
+  <color name="s4" value="#b88914"/>
+  <color name="s5" value="#334999"/>
+  <color name="s6" value="#b86614"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
