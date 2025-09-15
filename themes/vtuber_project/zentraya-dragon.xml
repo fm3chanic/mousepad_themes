@@ -14,18 +14,18 @@
   <color name="hl2" value="#955750"/>
   <color name="hl3" value="#74433e"/>
 
-  <color name="m1" value="#f2e673"/>
-  <color name="m2" value="#e0859c"/>
-  <color name="m3" value="#f7cd6e"/>
-  <color name="m4" value="#f07575"/>
-  <color name="m5" value="#f7b36e"/>
-  <color name="m6" value="#f09475"/>
-  <color name="s1" value="#f6eea2"/>
-  <color name="s2" value="#eaaebd"/>
-  <color name="s3" value="#fade9e"/>
-  <color name="s4" value="#f5a3a3"/>
-  <color name="s5" value="#facc9e"/>
-  <color name="s6" value="#f5b8a3"/>
+  <color name="m1" value="#f7d56e"/>
+  <color name="m2" value="#f76eb3"/>
+  <color name="m3" value="#f7b36e"/>
+  <color name="m4" value="#f76e90"/>
+  <color name="m5" value="#f7906e"/>
+  <color name="m6" value="#f76e6e"/>
+  <color name="s1" value="#fae39e"/>
+  <color name="s2" value="#fa9ecc"/>
+  <color name="s3" value="#facc9e"/>
+  <color name="s4" value="#fa9eb5"/>
+  <color name="s5" value="#fab59e"/>
+  <color name="s6" value="#fa9e9e"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

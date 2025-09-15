@@ -4,9 +4,9 @@
     <_description>jinja-dark-red by fm3chanic</_description>
   
   <!-- color values  -->
-  <color name="bg1" value="#2c1f2e"/>
-  <color name="bg2" value="#3a293d"/>
-  <color name="bg3" value="#49344c"/>
+  <color name="bg1" value="#29222a"/>
+  <color name="bg2" value="#372d39"/>
+  <color name="bg3" value="#453947"/>
   <color name="fg1" value="#ebadbc"/>
   <color name="fg2" value="#d98c9f"/>
   <color name="fg3" value="#c27085"/>
