@@ -2,7 +2,7 @@
 <style-scheme id="shylily-light" _name="shylily-light" version="1.0">
     <author>fm3chanic</author>
     <_description>shylily-light by fm3chanic</_description>
-  
+
   <!-- color values  -->
   <color name="bg1" value="#cdcde4"/>
   <color name="bg2" value="#bdbddb"/>
@@ -14,18 +14,13 @@
   <color name="hl2" value="#6a7caf"/>
   <color name="hl3" value="#8b99c1"/>
 
-  <color name="m1" value="#862d86"/>
-  <color name="m2" value="#3e248f"/>
-  <color name="m3" value="#8e2559"/>
-  <color name="m4" value="#24748f"/>
-  <color name="m5" value="#862d2d"/>
-  <color name="m6" value="#2d4386"/>
-  <color name="s1" value="#ac39ac"/>
-  <color name="s2" value="#502eb8"/>
-  <color name="s3" value="#b62f73"/>
-  <color name="s4" value="#2e95b8"/>
-  <color name="s5" value="#ac3939"/>
-  <color name="s6" value="#3956ac"/>
+  <color name="c1" value="#862d86"/>
+  <color name="c2" value="#24748f"/>
+  <color name="c3" value="#862d2d"/>
+  <color name="c4" value="#2d4386"/>
+  <color name="c5" value="#3e248f"/>
+  <color name="c6" value="#8e2559"/>
+  <color name="c7" value="#52527a"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
@@ -36,47 +31,47 @@
   <style name="current-line"                background="hl3"/>
   <style name="line-numbers"                background="bg2" foreground="fg3"/>
   <style name="background-pattern"          background="bg3"/>
-  <style name="bracket-match"               foreground="s6" background="fg1"/>
-  <style name="bracket-mismatch"            foreground="fg1" background="s1"/>
+  <style name="bracket-match"               foreground="c2" background="fg1"/>
+  <style name="bracket-mismatch"            foreground="c1" background="s1"/>
   <style name="search-match"                foreground="fg1" background="hl2"/>
 	
   <!-- defaults  -->
-  <style name="def:keyword"                 foreground="m6" bold="false"/>
-  <style name="def:statement"               foreground="m5"/>
-  <style name="def:function"                foreground="m1"/>
-  <style name="def:decimal"                 foreground="m3"/>
-  <style name="def:preprocessor"            foreground="m2"/>
-  <style name="def:type"                    foreground="m2"/> 
-  <style name="def:character"               foreground="m4"/>
-  <style name="def:comment"                 foreground="fg3"/>
-  <style name="def:number"                  foreground="m3"/>
-  <style name="def:string"                  foreground="m4"/>
+  <style name="def:keyword"                 foreground="c4" bold="false"/>
+  <style name="def:statement"               foreground="c3"/>
+  <style name="def:function"                foreground="c3"/>
+  <style name="def:decimal"                 foreground="fg1"/>
+  <style name="def:preprocessor"            foreground="c2"/>
+  <style name="def:type"                    foreground="c5"/> 
+  <style name="def:character"               foreground="c2"/>
+  <style name="def:comment"                 foreground="c7"/>
+  <style name="def:number"                  foreground="fg1"/>
+  <style name="def:string"                  foreground="c2"/>
   <style name="def:net-address-in-comment"  foreground="fg3" italic="false" underline="true"/>
   <style name="def:underlined"              italic="false" underline="true"/>
-  <style name="def:note"                    foreground="fg2" background="bg1" bold="true"/>
-  <style name="def:error"                   foreground="m1" bold="true"/>
-  <style name="def:escape"                  foreground="m1"/>
-  <style name="def:shebang"                 foreground="m1" bold="false"/>
+  <style name="def:note"                    foreground="fg3" background="bg1" bold="true"/>
+  <style name="def:error"                   foreground="c1" bold="true"/>
+  <style name="def:escape"                  foreground="c2"/>
+  <style name="def:shebang"                 foreground="c1" bold="false"/>
   <style name="def:doc-comment-element"     italic="true"/>
-  <style name="def:identifier"              foreground="s5" bold="false"/>
-  <style name="def:specials"                foreground="s5" background="bg1"/>
-  <style name="def:variable"                foreground="m5"/>
-  <style name="def:boolean"                 foreground="s3" bold="true"/>
-  <style name="def:constant"                foreground="m5"/>
-  <style name="def:special-constant"        foreground="s5" bold="true"/>
+  <style name="def:identifier"              foreground="fg1" bold="false"/>
+  <style name="def:specials"                foreground="c2" background="bg1"/>
+  <style name="def:variable"                foreground="fg1"/>
+  <style name="def:boolean"                 foreground="c6" bold="false"/>
+  <style name="def:constant"                foreground="fg1"/>
+  <style name="def:special-constant"        foreground="fg1" bold="false"/>
 
   <style name="def:emphasis"                italic="true"/>
-  <style name="def:strong-emphasis"         foreground="m6" bold="true"/>
-  <style name="def:inline-code"             foreground="bg2"/>
+  <style name="def:strong-emphasis"         foreground="c1" bold="true"/>
+  <style name="def:inline-code"             foreground="c6"/>
   <style name="def:insertion"               underline="single"/>
   <style name="def:deletion"                strikethrough="true"/>
-  <style name="def:link-text"               foreground="s4"/>
-  <style name="def:link-symbol"             foreground="s4" bold="false"/>
-  <style name="def:link-destination"        italic="s3" underline="single"/>
-  <style name="def:heading"                 foreground="m2" bold="true"/>
-  <style name="def:thematic-break"          foreground="s2" bold="true"/>
-  <style name="def:preformatted-section"    foreground="m2"/>
-  <style name="def:list-marker"             foreground="s5" bold="false"/>
+  <style name="def:link-text"               foreground="c3"/>
+  <style name="def:link-symbol"             foreground="c3" bold="false"/>
+  <style name="def:link-destination"        italic="c5" underline="single"/>
+  <style name="def:heading"                 foreground="c4" bold="true"/>
+  <style name="def:thematic-break"          foreground="c4" bold="true"/>
+  <style name="def:preformatted-section"    foreground="c2"/>
+  <style name="def:list-marker"             foreground="fg2" bold="false"/>
   
   <style name="def:heading0"                scale="5.0"/>
   <style name="def:heading1"                scale="2.5"/>
@@ -87,14 +82,14 @@
   <style name="def:heading6"                scale="1.2"/>
 
   <!-- diff  -->  
-  <style name="diff:added-line"             foreground="m6"/>
-  <style name="diff:removed-line"           foreground="m5"/>
-  <style name="diff:changed-line"           foreground="m1"/>
-  <style name="diff:diff-file"              foreground="s4" bold="false"/>
-  <style name="diff:location"               foreground="s3"/>
-  <style name="diff:special-case"           foreground="s2" bold="false"/>	
+  <style name="diff:added-line"             foreground="c4"/>
+  <style name="diff:removed-line"           foreground="c2"/>
+  <style name="diff:changed-line"           foreground="c1"/>
+  <style name="diff:diff-file"              foreground="fg1" bold="false"/>
+  <style name="diff:location"               foreground="fg1"/>
+  <style name="diff:special-case"           foreground="c6" bold="false"/>	
 
   <!-- language specifics  -->
-  <style name="latex:command"               foreground="m6" bold="false"/>
+  <style name="latex:command"               foreground="c4" bold="false"/>
   <style name="latex:include"               use-style="def:preprocessor"/>
 </style-scheme>

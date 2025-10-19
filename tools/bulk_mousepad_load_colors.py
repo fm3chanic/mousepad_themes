@@ -16,7 +16,7 @@ def main(filename):
 
     #define valuse for replacement
     tab1_replace = ['BackGround1','BackGround2','BackGround3','ForeGround1','ForeGround2','ForeGround3','HighLight1','HighLight2','HighLight3']
-    tab2_replace = ['Main1','Main2','Main3','Main4','Main5','Main6','Sub1','Sub2','Sub3','Sub4','Sub5','Sub6']
+    tab2_replace = ['Syn1','Syn2','Syn3','Syn4','Syn5','Syn6','Syn7']
 
     input_file = f'{filename}.html'
     output_file = f'{filename}.xml'
@@ -29,7 +29,7 @@ def main(filename):
     tab1_values = tab1.iloc[0:9,1].tolist()
 
     tab2 = df[1]
-    tab2_values = tab2.iloc[0:12,1].tolist()
+    tab2_values = tab2.iloc[0:7,1].tolist()
 
     # reading the template
     f = open('mousepad_theme_template.xml', 'r', encoding='utf-8')
@@ -41,7 +41,7 @@ def main(filename):
     for i in range(9):
         content = content.replace(tab1_replace[i], tab1_values[i])
 
-    for i in range(12):
+    for i in range(7):
         content = content.replace(tab2_replace[i], tab2_values[i])    
 
     content = content.replace("ThemeName", filename)
