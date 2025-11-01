@@ -20,7 +20,6 @@
   <color name="c4" value="#8cd9b8"/>
   <color name="c5" value="#6a6aaf"/>
   <color name="c6" value="#0b538e"/>
-  <color name="c7" value="#c7858b"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
@@ -37,28 +36,28 @@
 	
   <!-- defaults  -->
   <style name="def:keyword"                 foreground="c4" bold="false"/>
-  <style name="def:statement"               foreground="c3"/>
-  <style name="def:function"                foreground="c3"/>
-  <style name="def:decimal"                 foreground="fg1"/>
-  <style name="def:preprocessor"            foreground="c2"/>
+  <style name="def:statement"               foreground="c1"/>
+  <style name="def:function"                foreground="c1"/>
+  <style name="def:decimal"                 foreground="c6"/>
+  <style name="def:preprocessor"            foreground="c5"/>
   <style name="def:type"                    foreground="c5"/> 
   <style name="def:character"               foreground="c2"/>
-  <style name="def:comment"                 foreground="c7"/>
-  <style name="def:number"                  foreground="fg1"/>
+  <style name="def:comment"                 foreground="fg3"/>
+  <style name="def:number"                  foreground="c6"/>
   <style name="def:string"                  foreground="c2"/>
   <style name="def:net-address-in-comment"  foreground="fg3" italic="false" underline="true"/>
   <style name="def:underlined"              italic="false" underline="true"/>
   <style name="def:note"                    foreground="fg3" background="bg1" bold="true"/>
   <style name="def:error"                   foreground="c1" bold="true"/>
-  <style name="def:escape"                  foreground="c2"/>
+  <style name="def:escape"                  foreground="c1"/>
   <style name="def:shebang"                 foreground="c1" bold="false"/>
   <style name="def:doc-comment-element"     italic="true"/>
-  <style name="def:identifier"              foreground="fg1" bold="false"/>
+  <style name="def:identifier"              foreground="c3" bold="false"/>
   <style name="def:specials"                foreground="c2" background="bg1"/>
-  <style name="def:variable"                foreground="fg1"/>
+  <style name="def:variable"                foreground="c3"/>
   <style name="def:boolean"                 foreground="c6" bold="false"/>
-  <style name="def:constant"                foreground="fg1"/>
-  <style name="def:special-constant"        foreground="fg1" bold="false"/>
+  <style name="def:constant"                foreground="c3"/>
+  <style name="def:special-constant"        foreground="c3" bold="false"/>
 
   <style name="def:emphasis"                italic="true"/>
   <style name="def:strong-emphasis"         foreground="c1" bold="true"/>

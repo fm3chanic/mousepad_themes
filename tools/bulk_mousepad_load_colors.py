@@ -16,7 +16,7 @@ def main(filename):
 
     #define valuse for replacement
     tab1_replace = ['BackGround1','BackGround2','BackGround3','ForeGround1','ForeGround2','ForeGround3','HighLight1','HighLight2','HighLight3']
-    tab2_replace = ['Syn1','Syn2','Syn3','Syn4','Syn5','Syn6','Syn7']
+    tab2_replace = ['Syn1','Syn2','Syn3','Syn4','Syn5','Syn6']
 
     input_file = f'{filename}.html'
     output_file = f'{filename}.xml'
@@ -41,7 +41,7 @@ def main(filename):
     for i in range(9):
         content = content.replace(tab1_replace[i], tab1_values[i])
 
-    for i in range(7):
+    for i in range(6):
         content = content.replace(tab2_replace[i], tab2_values[i])    
 
     content = content.replace("ThemeName", filename)
@@ -57,10 +57,9 @@ file_count = len(source_files)
 filename = source_files[0]
 i = 0
 
-while filename != source_files[(file_count - 1)]:
+for i in range(file_count):
+    filename = source_files[i]
     x = filename.find(".html")
     if x > 1:
         filename = filename.replace(".html", "")
         main(filename)
-    i += 1
-    filename = source_files[i]
