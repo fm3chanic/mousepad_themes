@@ -4,15 +4,15 @@
     <_description>pastel-sky-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#221934"/>
-  <color name="bg2" value="#2d2145"/>
-  <color name="bg3" value="#382956"/>
-  <color name="fg1" value="#ddddee"/>
-  <color name="fg2" value="#bbbbdd"/>
-  <color name="fg3" value="#9999cc"/>
-  <color name="hl1" value="#7f64b4"/>
-  <color name="hl2" value="#654b9b"/>
-  <color name="hl3" value="#4f3a78"/>
+  <color name="bg1" value="#24212c"/>
+  <color name="bg2" value="#302c3a"/>
+  <color name="bg3" value="#3c3749"/>
+  <color name="fg1" value="#c2c2f0"/>
+  <color name="fg2" value="#9f9fdf"/>
+  <color name="fg3" value="#8282c9"/>
+  <color name="hl1" value="#857c9c"/>
+  <color name="hl2" value="#6b6383"/>
+  <color name="hl3" value="#534d66"/>
 
   <color name="c1" value="#f28c8c"/>
   <color name="c2" value="#80bfff"/>

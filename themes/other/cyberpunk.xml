@@ -4,22 +4,22 @@
     <_description>cyberpunk by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#05132e"/>
-  <color name="bg2" value="#081c45"/>
-  <color name="bg3" value="#0a255c"/>
-  <color name="fg1" value="#f4a4f4"/>
-  <color name="fg2" value="#ee77ee"/>
-  <color name="fg3" value="#e949e9"/>
-  <color name="hl1" value="#e31ce3"/>
-  <color name="hl2" value="#b616b6"/>
-  <color name="hl3" value="#881188"/>
+  <color name="bg1" value="#121721"/>
+  <color name="bg2" value="#1b2331"/>
+  <color name="bg3" value="#242e42"/>
+  <color name="fg1" value="#ebadeb"/>
+  <color name="fg2" value="#d98cd9"/>
+  <color name="fg3" value="#c270c2"/>
+  <color name="hl1" value="#a45ba4"/>
+  <color name="hl2" value="#844884"/>
+  <color name="hl3" value="#633663"/>
 
-  <color name="c1" value="#ad33ff"/>
-  <color name="c2" value="#33ccff"/>
-  <color name="c3" value="#ff3399"/>
-  <color name="c4" value="#33ffff"/>
-  <color name="c5" value="#ff33ff"/>
-  <color name="c6" value="#3333ff"/>
+  <color name="c1" value="#b37de8"/>
+  <color name="c2" value="#7dcde8"/>
+  <color name="c3" value="#e87db3"/>
+  <color name="c4" value="#7de8cd"/>
+  <color name="c5" value="#e87de8"/>
+  <color name="c6" value="#7d7de8"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
