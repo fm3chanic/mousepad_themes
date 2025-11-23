@@ -7,19 +7,19 @@
   <color name="bg1" value="#121721"/>
   <color name="bg2" value="#1b2331"/>
   <color name="bg3" value="#242e42"/>
-  <color name="fg1" value="#ebadeb"/>
-  <color name="fg2" value="#d98cd9"/>
-  <color name="fg3" value="#c270c2"/>
-  <color name="hl1" value="#a45ba4"/>
-  <color name="hl2" value="#844884"/>
-  <color name="hl3" value="#633663"/>
+  <color name="fg1" value="#dbbddb"/>
+  <color name="fg2" value="#c99cc9"/>
+  <color name="fg3" value="#b87ab8"/>
+  <color name="hl1" value="#996699"/>
+  <color name="hl2" value="#7a527a"/>
+  <color name="hl3" value="#5c3d5c"/>
 
-  <color name="c1" value="#b37de8"/>
-  <color name="c2" value="#7dcde8"/>
-  <color name="c3" value="#e87db3"/>
-  <color name="c4" value="#7de8cd"/>
-  <color name="c5" value="#e87de8"/>
-  <color name="c6" value="#7d7de8"/>
+  <color name="c1" value="#e87d98"/>
+  <color name="c2" value="#cde87d"/>
+  <color name="c3" value="#7de8cd"/>
+  <color name="c4" value="#7de898"/>
+  <color name="c5" value="#8cc6d9"/>
+  <color name="c6" value="#d98cd9"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

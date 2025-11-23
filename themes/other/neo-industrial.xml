@@ -4,9 +4,9 @@
     <_description>neo-industrial by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#2a2e1f"/>
-  <color name="bg2" value="#383d29"/>
-  <color name="bg3" value="#454c34"/>
+  <color name="bg1" value="#282a22"/>
+  <color name="bg2" value="#36392d"/>
+  <color name="bg3" value="#434739"/>
   <color name="fg1" value="#dddbd5"/>
   <color name="fg2" value="#c6c3b9"/>
   <color name="fg3" value="#afac9d"/>
