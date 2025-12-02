@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="metropolis" _name="metropolis" version="1.0">
+<style-scheme id="candy-cane-dark" _name="candy-cane-dark" version="1.0">
     <author>fm3chanic</author>
-    <_description>metropolis by fm3chanic</_description>
+    <_description>candy-cane-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1f262e"/>
-  <color name="bg2" value="#29323d"/>
-  <color name="bg3" value="#343f4c"/>
-  <color name="fg1" value="#d0dae1"/>
-  <color name="fg2" value="#b1c2cd"/>
-  <color name="fg3" value="#92a9b9"/>
-  <color name="hl1" value="#818e98"/>
-  <color name="hl2" value="#67747e"/>
-  <color name="hl3" value="#505a62"/>
+  <color name="bg1" value="#321b1b"/>
+  <color name="bg2" value="#422424"/>
+  <color name="bg3" value="#532d2d"/>
+  <color name="fg1" value="#f6efef"/>
+  <color name="fg2" value="#e3cece"/>
+  <color name="fg3" value="#d1adad"/>
+  <color name="hl1" value="#bf8d8d"/>
+  <color name="hl2" value="#ac6c6c"/>
+  <color name="hl3" value="#935353"/>
 
-  <color name="c1" value="#d27979"/>
-  <color name="c2" value="#f2da8c"/>
-  <color name="c3" value="#8cd9c6"/>
-  <color name="c4" value="#9fd98c"/>
-  <color name="c5" value="#80a6cb"/>
-  <color name="c6" value="#d194b3"/>
+  <color name="c1" value="#e46767"/>
+  <color name="c2" value="#e4c567"/>
+  <color name="c3" value="#75d7d7"/>
+  <color name="c4" value="#75d78d"/>
+  <color name="c5" value="#75a6d7"/>
+  <color name="c6" value="#d775a6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
