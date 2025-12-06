@@ -4,22 +4,22 @@
     <_description>cryogenic by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#282a22"/>
-  <color name="bg2" value="#36392d"/>
-  <color name="bg3" value="#434739"/>
-  <color name="fg1" value="#d1dde0"/>
-  <color name="fg2" value="#b3c6cc"/>
-  <color name="fg3" value="#94b0b8"/>
-  <color name="hl1" value="#7599a3"/>
-  <color name="hl2" value="#5c808a"/>
-  <color name="hl3" value="#47636b"/>
+  <color name="bg1" value="#3a3d34"/>
+  <color name="bg2" value="#484a3f"/>
+  <color name="bg3" value="#55584b"/>
+  <color name="fg1" value="#b4e2ee"/>
+  <color name="fg2" value="#a1c5ce"/>
+  <color name="fg3" value="#abbfc4"/>
+  <color name="hl1" value="#8da8b0"/>
+  <color name="hl2" value="#6f919b"/>
+  <color name="hl3" value="#58767e"/>
 
-  <color name="c1" value="#d98c9f"/>
-  <color name="c2" value="#d9d98c"/>
-  <color name="c3" value="#8cd9c6"/>
-  <color name="c4" value="#b3d98c"/>
-  <color name="c5" value="#8cc6d9"/>
-  <color name="c6" value="#bfa6d9"/>
+  <color name="c1" value="#dd889d"/>
+  <color name="c2" value="#dddd88"/>
+  <color name="c3" value="#88ddc8"/>
+  <color name="c4" value="#9ddd88"/>
+  <color name="c5" value="#88b3dd"/>
+  <color name="c6" value="#d98cc6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

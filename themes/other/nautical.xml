@@ -4,22 +4,22 @@
     <_description>nautical by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1f1f2e"/>
-  <color name="bg2" value="#29293d"/>
-  <color name="bg3" value="#34344c"/>
-  <color name="fg1" value="#efe0c2"/>
-  <color name="fg2" value="#e4cc9a"/>
-  <color name="fg3" value="#dab772"/>
-  <color name="hl1" value="#7676a2"/>
-  <color name="hl2" value="#5d5d89"/>
-  <color name="hl3" value="#48486a"/>
+  <color name="bg1" value="#2e2e42"/>
+  <color name="bg2" value="#383851"/>
+  <color name="bg3" value="#434360"/>
+  <color name="fg1" value="#e9d9ba"/>
+  <color name="fg2" value="#d5c19a"/>
+  <color name="fg3" value="#c9b58d"/>
+  <color name="hl1" value="#8d8db0"/>
+  <color name="hl2" value="#6f6f9b"/>
+  <color name="hl3" value="#58587e"/>
 
-  <color name="c1" value="#f09e75"/>
-  <color name="c2" value="#6666ff"/>
-  <color name="c3" value="#66b3ff"/>
-  <color name="c4" value="#93ecec"/>
-  <color name="c5" value="#f0c775"/>
-  <color name="c6" value="#f0f075"/>
+  <color name="c1" value="#db8b70"/>
+  <color name="c2" value="#dbc170"/>
+  <color name="c3" value="#70dbc1"/>
+  <color name="c4" value="#70db8b"/>
+  <color name="c5" value="#70c1db"/>
+  <color name="c6" value="#8f79d2"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

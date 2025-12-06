@@ -4,22 +4,22 @@
     <_description>steampunk by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1f1414"/>
-  <color name="bg2" value="#2e1f1f"/>
-  <color name="bg3" value="#3d2929"/>
-  <color name="fg1" value="#edce92"/>
-  <color name="fg2" value="#e0b96c"/>
-  <color name="fg3" value="#c69f53"/>
-  <color name="hl1" value="#996666"/>
-  <color name="hl2" value="#7a5252"/>
-  <color name="hl3" value="#5c3d3d"/>
+  <color name="bg1" value="#422e2e"/>
+  <color name="bg2" value="#513838"/>
+  <color name="bg3" value="#604343"/>
+  <color name="fg1" value="#eedbb4"/>
+  <color name="fg2" value="#e5c78a"/>
+  <color name="fg3" value="#dac395"/>
+  <color name="hl1" value="#b08d8d"/>
+  <color name="hl2" value="#9b6f6f"/>
+  <color name="hl3" value="#7e5858"/>
 
   <color name="c1" value="#ba5e5e"/>
-  <color name="c2" value="#b3b3b3"/>
-  <color name="c3" value="#cb774d"/>
-  <color name="c4" value="#75a3a3"/>
-  <color name="c5" value="#dda73c"/>
-  <color name="c6" value="#7575a3"/>
+  <color name="c2" value="#e0c36c"/>
+  <color name="c3" value="#75a3a3"/>
+  <color name="c4" value="#75ba5e"/>
+  <color name="c5" value="#7575a3"/>
+  <color name="c6" value="#ba5e8c"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

@@ -4,21 +4,21 @@
     <_description>solarpunk by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1b2b31"/>
-  <color name="bg2" value="#243a42"/>
-  <color name="bg3" value="#2d4852"/>
-  <color name="fg1" value="#dcded3"/>
-  <color name="fg2" value="#c5c9b6"/>
-  <color name="fg3" value="#adb398"/>
-  <color name="hl1" value="#7b939d"/>
-  <color name="hl2" value="#627a84"/>
-  <color name="hl3" value="#4c5f67"/>
+  <color name="bg1" value="#283f48"/>
+  <color name="bg2" value="#324e58"/>
+  <color name="bg3" value="#3b5c68"/>
+  <color name="fg1" value="#eceee8"/>
+  <color name="fg2" value="#d5d8ca"/>
+  <color name="fg3" value="#bec2ad"/>
+  <color name="hl1" value="#8fa4ad"/>
+  <color name="hl2" value="#728c97"/>
+  <color name="hl3" value="#5b727b"/>
 
-  <color name="c1" value="#f94144"/>
-  <color name="c2" value="#F9C74F"/>
-  <color name="c3" value="#85C1B0"/>
-  <color name="c4" value="#B5E48C"/>
-  <color name="c5" value="#71a2c1"/>
+  <color name="c1" value="#eb474a"/>
+  <color name="c2" value="#ebba47"/>
+  <color name="c3" value="#61d1b1"/>
+  <color name="c4" value="#afe085"/>
+  <color name="c5" value="#61a6d1"/>
   <color name="c6" value="#F0F3BD"/>
 
   <!-- global -->

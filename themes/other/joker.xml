@@ -4,22 +4,22 @@
     <_description>joker by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#191221"/>
-  <color name="bg2" value="#261b31"/>
-  <color name="bg3" value="#322442"/>
-  <color name="fg1" value="#bddbc5"/>
-  <color name="fg2" value="#9cc9a7"/>
-  <color name="fg3" value="#7ab88a"/>
-  <color name="hl1" value="#669973"/>
-  <color name="hl2" value="#527a5c"/>
-  <color name="hl3" value="#3d5c45"/>
+  <color name="bg1" value="#372848"/>
+  <color name="bg2" value="#443258"/>
+  <color name="bg3" value="#503b68"/>
+  <color name="fg1" value="#bfe3c4"/>
+  <color name="fg2" value="#9fd1a5"/>
+  <color name="fg3" value="#a6c9ab"/>
+  <color name="hl1" value="#8db095"/>
+  <color name="hl2" value="#6f9b7a"/>
+  <color name="hl3" value="#587e61"/>
 
-  <color name="c1" value="#e15151"/>
-  <color name="c2" value="#c9ed5e"/>
-  <color name="c3" value="#5eeda6"/>
-  <color name="c4" value="#67e467"/>
-  <color name="c5" value="#5eeded"/>
-  <color name="c6" value="#e963a6"/>
+  <color name="c1" value="#e96363"/>
+  <color name="c2" value="#e9e963"/>
+  <color name="c3" value="#63e984"/>
+  <color name="c4" value="#84e963"/>
+  <color name="c5" value="#63e9c7"/>
+  <color name="c6" value="#d775a6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

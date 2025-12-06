@@ -4,22 +4,22 @@
     <_description>deep-sea by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#001a33"/>
-  <color name="bg2" value="#00284d"/>
-  <color name="bg3" value="#003566"/>
-  <color name="fg1" value="#d9e6f2"/>
-  <color name="fg2" value="#b3cde6"/>
-  <color name="fg3" value="#8cb4d9"/>
-  <color name="hl1" value="#4082bf"/>
-  <color name="hl2" value="#336899"/>
-  <color name="hl3" value="#264e73"/>
+  <color name="bg1" value="#0f1a24"/>
+  <color name="bg2" value="#172636"/>
+  <color name="bg3" value="#1f3347"/>
+  <color name="fg1" value="#b8cce0"/>
+  <color name="fg2" value="#9cb3c9"/>
+  <color name="fg3" value="#859aad"/>
+  <color name="hl1" value="#668099"/>
+  <color name="hl2" value="#52677a"/>
+  <color name="hl3" value="#3d4d5c"/>
 
-  <color name="c1" value="#6666ff"/>
-  <color name="c2" value="#66ffb3"/>
-  <color name="c3" value="#66ff66"/>
-  <color name="c4" value="#b3ff66"/>
-  <color name="c5" value="#66b3ff"/>
-  <color name="c6" value="#66ffff"/>
+  <color name="c1" value="#e963a6"/>
+  <color name="c2" value="#e9e963"/>
+  <color name="c3" value="#63e9a6"/>
+  <color name="c4" value="#a6e963"/>
+  <color name="c5" value="#63c7e9"/>
+  <color name="c6" value="#7979d2"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

@@ -4,22 +4,22 @@
     <_description>mother-nature-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#e5e5e6"/>
-  <color name="bg2" value="#cbcbcd"/>
-  <color name="bg3" value="#bebec1"/>
-  <color name="fg1" value="#19191a"/>
-  <color name="fg2" value="#313135"/>
-  <color name="fg3" value="#4a4a4f"/>
-  <color name="hl1" value="#64646a"/>
-  <color name="hl2" value="#7c7c83"/>
-  <color name="hl3" value="#96969c"/>
+  <color name="bg1" value="#ceced4"/>
+  <color name="bg2" value="#c1c1c8"/>
+  <color name="bg3" value="#b3b3bc"/>
+  <color name="fg1" value="#1d1d20"/>
+  <color name="fg2" value="#35353b"/>
+  <color name="fg3" value="#4d4d56"/>
+  <color name="hl1" value="#656572"/>
+  <color name="hl2" value="#7d7d8c"/>
+  <color name="hl3" value="#9898a4"/>
 
   <color name="c1" value="#ac393b"/>
-  <color name="c2" value="#6b4db3"/>
-  <color name="c3" value="#d98b26"/>
-  <color name="c4" value="#476b4b"/>
-  <color name="c5" value="#d95326"/>
-  <color name="c6" value="#388694"/>
+  <color name="c2" value="#c37d22"/>
+  <color name="c3" value="#4b9b87"/>
+  <color name="c4" value="#648267"/>
+  <color name="c5" value="#4b879b"/>
+  <color name="c6" value="#644e97"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

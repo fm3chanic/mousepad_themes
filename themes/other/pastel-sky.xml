@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="nightmare" _name="nightmare" version="1.0">
+<style-scheme id="pastel-sky" _name="pastel-sky" version="1.0">
     <author>fm3chanic</author>
-    <_description>nightmare by fm3chanic</_description>
+    <_description>pastel-sky by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#24222a"/>
-  <color name="bg2" value="#302d39"/>
-  <color name="bg3" value="#3c3947"/>
-  <color name="fg1" value="#d7d5dd"/>
-  <color name="fg2" value="#bcb8c6"/>
-  <color name="fg3" value="#a19cb0"/>
-  <color name="hl1" value="#868099"/>
-  <color name="hl2" value="#6c667f"/>
-  <color name="hl3" value="#544f63"/>
+  <color name="bg1" value="#38313f"/>
+  <color name="bg2" value="#453d4d"/>
+  <color name="bg3" value="#52485b"/>
+  <color name="fg1" value="#d1bbe7"/>
+  <color name="fg2" value="#b8a6c9"/>
+  <color name="fg3" value="#b8afc0"/>
+  <color name="hl1" value="#9e92aa"/>
+  <color name="hl2" value="#857693"/>
+  <color name="hl3" value="#6b5e78"/>
 
-  <color name="c1" value="#f86d6d"/>
-  <color name="c2" value="#ffaa80"/>
-  <color name="c3" value="#b3ffff"/>
-  <color name="c4" value="#86f9bf"/>
-  <color name="c5" value="#bf9fdf"/>
-  <color name="c6" value="#ff99cc"/>
+  <color name="c1" value="#f28c8c"/>
+  <color name="c2" value="#f0c775"/>
+  <color name="c3" value="#8cf2f2"/>
+  <color name="c4" value="#bff28c"/>
+  <color name="c5" value="#80bfff"/>
+  <color name="c6" value="#f28cf2"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

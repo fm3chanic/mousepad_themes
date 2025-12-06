@@ -4,22 +4,22 @@
     <_description>dieselpunk by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#262626"/>
-  <color name="bg2" value="#333333"/>
-  <color name="bg3" value="#404040"/>
-  <color name="fg1" value="#d6ccc2"/>
-  <color name="fg2" value="#c2b3a3"/>
-  <color name="fg3" value="#ad9a85"/>
-  <color name="hl1" value="#998066"/>
-  <color name="hl2" value="#7a6752"/>
-  <color name="hl3" value="#5c4d3d"/>
+  <color name="bg1" value="#383838"/>
+  <color name="bg2" value="#454545"/>
+  <color name="bg3" value="#525252"/>
+  <color name="fg1" value="#e2d2c1"/>
+  <color name="fg2" value="#d1b89e"/>
+  <color name="fg3" value="#c4b8ab"/>
+  <color name="hl1" value="#b09f8d"/>
+  <color name="hl2" value="#9b856f"/>
+  <color name="hl3" value="#7e6c58"/>
 
   <color name="c1" value="#c27070"/>
-  <color name="c2" value="#a88aa1"/>
-  <color name="c3" value="#d1b561"/>
-  <color name="c4" value="#adad85"/>
-  <color name="c5" value="#cc9966"/>
-  <color name="c6" value="#ad8585"/>
+  <color name="c2" value="#d1b561"/>
+  <color name="c3" value="#70c299"/>
+  <color name="c4" value="#99c270"/>
+  <color name="c5" value="#ad70c2"/>
+  <color name="c6" value="#c27099"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

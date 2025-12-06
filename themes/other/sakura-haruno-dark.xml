@@ -4,22 +4,22 @@
     <_description>sakura-haruno-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#34181b"/>
-  <color name="bg2" value="#462024"/>
-  <color name="bg3" value="#57282d"/>
-  <color name="fg1" value="#f4d7d9"/>
-  <color name="fg2" value="#efc3c6"/>
-  <color name="fg3" value="#eaaeb2"/>
-  <color name="hl1" value="#8c4048"/>
-  <color name="hl2" value="#7a383f"/>
-  <color name="hl3" value="#693036"/>
+  <color name="bg1" value="#48282c"/>
+  <color name="bg2" value="#583235"/>
+  <color name="bg3" value="#683b3f"/>
+  <color name="fg1" value="#ebb7bd"/>
+  <color name="fg2" value="#da969d"/>
+  <color name="fg3" value="#cca4a8"/>
+  <color name="hl1" value="#b98388"/>
+  <color name="hl2" value="#a76269"/>
+  <color name="hl3" value="#894d53"/>
 
   <color name="c1" value="#e75a5a"/>
   <color name="c2" value="#56848f"/>
   <color name="c3" value="#5fb8d3"/>
   <color name="c4" value="#8cd9b8"/>
-  <color name="c5" value="#6a6aaf"/>
-  <color name="c6" value="#0b538e"/>
+  <color name="c5" value="#1f6dad"/>
+  <color name="c6" value="#6a6aaf"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

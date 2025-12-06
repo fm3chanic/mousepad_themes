@@ -4,22 +4,22 @@
     <_description>aurora-borealis by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#132020"/>
-  <color name="bg2" value="#1d3030"/>
-  <color name="bg3" value="#264040"/>
-  <color name="fg1" value="#b5e3da"/>
-  <color name="fg2" value="#90d5c7"/>
-  <color name="fg3" value="#6bc7b5"/>
-  <color name="hl1" value="#53acac"/>
-  <color name="hl2" value="#428a8a"/>
-  <color name="hl3" value="#326767"/>
+  <color name="bg1" value="#2e4242"/>
+  <color name="bg2" value="#385151"/>
+  <color name="bg3" value="#496969"/>
+  <color name="fg1" value="#cbe0e7"/>
+  <color name="fg2" value="#acc9d2"/>
+  <color name="fg3" value="#b4c5cb"/>
+  <color name="hl1" value="#96b6b6"/>
+  <color name="hl2" value="#78a1a1"/>
+  <color name="hl3" value="#5e8787"/>
 
-  <color name="c1" value="#5a8cf2"/>
-  <color name="c2" value="#5af2f2"/>
-  <color name="c3" value="#5eed5e"/>
-  <color name="c4" value="#5af2bf"/>
-  <color name="c5" value="#bff25a"/>
-  <color name="c6" value="#4dd2ff"/>
+  <color name="c1" value="#f0a8ba"/>
+  <color name="c2" value="#def0a8"/>
+  <color name="c3" value="#a8f0cc"/>
+  <color name="c4" value="#a8f0a8"/>
+  <color name="c5" value="#a8f0f0"/>
+  <color name="c6" value="#baa8f0"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

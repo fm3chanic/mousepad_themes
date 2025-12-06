@@ -4,15 +4,15 @@
     <_description>mother-nature-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#19191a"/>
-  <color name="bg2" value="#252527"/>
-  <color name="bg3" value="#323234"/>
-  <color name="fg1" value="#c7c7d1"/>
-  <color name="fg2" value="#ababba"/>
-  <color name="fg3" value="#8f8fa3"/>
-  <color name="hl1" value="#797986"/>
-  <color name="hl2" value="#61616b"/>
-  <color name="hl3" value="#494950"/>
+  <color name="bg1" value="#35353b"/>
+  <color name="bg2" value="#414149"/>
+  <color name="bg3" value="#4d4d56"/>
+  <color name="fg1" value="#e9e9ec"/>
+  <color name="fg2" value="#ceced4"/>
+  <color name="fg3" value="#b3b3bc"/>
+  <color name="hl1" value="#9898a4"/>
+  <color name="hl2" value="#7d7d8c"/>
+  <color name="hl3" value="#656572"/>
 
   <color name="c1" value="#c65355"/>
   <color name="c2" value="#e0a352"/>

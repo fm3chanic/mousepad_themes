@@ -4,15 +4,15 @@
     <_description>dark-space by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1c171c"/>
-  <color name="bg2" value="#2a222a"/>
-  <color name="bg3" value="#382e38"/>
-  <color name="fg1" value="#d6c2cc"/>
-  <color name="fg2" value="#c2a3b3"/>
-  <color name="fg3" value="#ad8599"/>
-  <color name="hl1" value="#8c738c"/>
-  <color name="hl2" value="#705c70"/>
-  <color name="hl3" value="#544554"/>
+  <color name="bg1" value="#3d343d"/>
+  <color name="bg2" value="#4a3f4a"/>
+  <color name="bg3" value="#584b58"/>
+  <color name="fg1" value="#eeb5ee"/>
+  <color name="fg2" value="#cea1ce"/>
+  <color name="fg3" value="#c3acc3"/>
+  <color name="hl1" value="#a696a6"/>
+  <color name="hl2" value="#8e7b8e"/>
+  <color name="hl3" value="#746374"/>
 
   <color name="c1" value="#e0859c"/>
   <color name="c2" value="#e09c85"/>

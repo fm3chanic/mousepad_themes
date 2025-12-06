@@ -4,22 +4,22 @@
     <_description>neo-industrial by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#282a22"/>
-  <color name="bg2" value="#36392d"/>
-  <color name="bg3" value="#434739"/>
-  <color name="fg1" value="#dddbd5"/>
-  <color name="fg2" value="#c6c3b9"/>
-  <color name="fg3" value="#afac9d"/>
-  <color name="hl1" value="#989481"/>
-  <color name="hl2" value="#7e7a67"/>
-  <color name="hl3" value="#625f50"/>
+  <color name="bg1" value="#3a3d34"/>
+  <color name="bg2" value="#474a3f"/>
+  <color name="bg3" value="#54584b"/>
+  <color name="fg1" value="#e7e0bb"/>
+  <color name="fg2" value="#c9c3a6"/>
+  <color name="fg3" value="#c0bdaf"/>
+  <color name="hl1" value="#aaa692"/>
+  <color name="hl2" value="#938e76"/>
+  <color name="hl3" value="#78745e"/>
 
-  <color name="c1" value="#d98c9f"/>
-  <color name="c2" value="#d9d98c"/>
-  <color name="c3" value="#8cd9c6"/>
-  <color name="c4" value="#b3d98c"/>
-  <color name="c5" value="#8cc6d9"/>
-  <color name="c6" value="#bfa6d9"/>
+  <color name="c1" value="#e0859c"/>
+  <color name="c2" value="#e09c85"/>
+  <color name="c3" value="#94d1c2"/>
+  <color name="c4" value="#c2d194"/>
+  <color name="c5" value="#b38cd9"/>
+  <color name="c6" value="#e085c9"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

@@ -15,11 +15,11 @@
   <color name="hl3" value="#766456"/>
 
   <color name="c1" value="#ac5353"/>
-  <color name="c2" value="#99b34d"/>
-  <color name="c3" value="#b3804d"/>
-  <color name="c4" value="#4db366"/>
-  <color name="c5" value="#ac5380"/>
-  <color name="c6" value="#53ac96"/>
+  <color name="c2" value="#b3804d"/>
+  <color name="c3" value="#4db366"/>
+  <color name="c4" value="#99b34d"/>
+  <color name="c5" value="#53ac96"/>
+  <color name="c6" value="#ac5380"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

@@ -4,9 +4,9 @@
     <_description>adeptus-mechanicus-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#321e1b"/>
-  <color name="bg2" value="#422824"/>
-  <color name="bg3" value="#53322d"/>
+  <color name="bg1" value="#361b17"/>
+  <color name="bg2" value="#47241f"/>
+  <color name="bg3" value="#592d26"/>
   <color name="fg1" value="#d1d8e0"/>
   <color name="fg2" value="#b6bfc9"/>
   <color name="fg3" value="#9da5af"/>
@@ -14,12 +14,12 @@
   <color name="hl2" value="#6d7278"/>
   <color name="hl3" value="#55595e"/>
 
-  <color name="c1" value="#8585e0"/>
+  <color name="c1" value="#e08585"/>
   <color name="c2" value="#e0c985"/>
   <color name="c3" value="#7de8e8"/>
-  <color name="c4" value="#e08585"/>
-  <color name="c5" value="#e8b37d"/>
-  <color name="c6" value="#7db3e8"/>
+  <color name="c4" value="#7de898"/>
+  <color name="c5" value="#7db3e8"/>
+  <color name="c6" value="#8585e0"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
