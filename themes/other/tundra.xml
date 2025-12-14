@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="20k-leagues-under-seas" _name="20k-leagues-under-seas" version="1.0">
+<style-scheme id="tundra" _name="tundra" version="1.0">
     <author>fm3chanic</author>
-    <_description>20k-leagues-under-seas by fm3chanic</_description>
+    <_description>tundra by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#141f1f"/>
-  <color name="bg2" value="#1e2f2f"/>
-  <color name="bg3" value="#283e3e"/>
-  <color name="fg1" value="#e9d9ba"/>
-  <color name="fg2" value="#d5c19a"/>
-  <color name="fg3" value="#c9b58d"/>
-  <color name="hl1" value="#639c9c"/>
-  <color name="hl2" value="#507c7c"/>
-  <color name="hl3" value="#3c5d5d"/>
+  <color name="bg1" value="#2e4238"/>
+  <color name="bg2" value="#385145"/>
+  <color name="bg3" value="#436052"/>
+  <color name="fg1" value="#c4d8de"/>
+  <color name="fg2" value="#a7c0c8"/>
+  <color name="fg3" value="#abbec4"/>
+  <color name="hl1" value="#8da7b0"/>
+  <color name="hl2" value="#6f909b"/>
+  <color name="hl3" value="#58757e"/>
 
-  <color name="c1" value="#eb9393"/>
-  <color name="c2" value="#92b9b9"/>
-  <color name="c3" value="#51bde1"/>
-  <color name="c4" value="#66e591"/>
-  <color name="c5" value="#9393eb"/>
-  <color name="c6" value="#eb93eb"/>
+  <color name="c1" value="#d194a3"/>
+  <color name="c2" value="#d1d194"/>
+  <color name="c3" value="#94d1b3"/>
+  <color name="c4" value="#b3d194"/>
+  <color name="c5" value="#94c2d1"/>
+  <color name="c6" value="#d194c2"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
