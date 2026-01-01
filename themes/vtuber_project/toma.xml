@@ -4,22 +4,22 @@
     <_description>toma by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#f0c2c2"/>
-  <color name="bg2" value="#ebadad"/>
-  <color name="bg3" value="#e69898"/>
-  <color name="fg1" value="#153715"/>
-  <color name="fg2" value="#295629"/>
-  <color name="fg3" value="#437043"/>
-  <color name="hl1" value="#859550"/>
-  <color name="hl2" value="#9faf6a"/>
-  <color name="hl3" value="#b4c18b"/>
+  <color name="bg1" value="#E4CDCD"/>
+  <color name="bg2" value="#DBBCBC"/>
+  <color name="bg3" value="#D2ACAC"/>
+  <color name="fg1" value="#202B20"/>
+  <color name="fg2" value="#364936"/>
+  <color name="fg3" value="#4B664B"/>
+  <color name="hl1" value="#7B8361"/>
+  <color name="hl2" value="#959D7B"/>
+  <color name="hl3" value="#7B8361"/>
 
-  <color name="c1" value="#8a0f6b"/>
-  <color name="c2" value="#2e8a0f"/>
-  <color name="c3" value="#8a2e0f"/>
-  <color name="c4" value="#637a1f"/>
-  <color name="c5" value="#0f8a2e"/>
-  <color name="c6" value="#8a0f2e"/>
+  <color name="c1" value="#852C6F"/>
+  <color name="c2" value="#43852C"/>
+  <color name="c3" value="#85432C"/>
+  <color name="c4" value="#6F852C"/>
+  <color name="c5" value="#2C8543"/>
+  <color name="c6" value="#852C43"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

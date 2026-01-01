@@ -4,22 +4,22 @@
     <_description>bao-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#cdd2e4"/>
-  <color name="bg2" value="#bdc3db"/>
-  <color name="bg3" value="#acb4d2"/>
-  <color name="fg1" value="#0f323d"/>
-  <color name="fg2" value="#205160"/>
-  <color name="fg3" value="#366d7d"/>
-  <color name="hl1" value="#508595"/>
-  <color name="hl2" value="#6a9faf"/>
-  <color name="hl3" value="#8bb4c1"/>
+  <color name="bg1" value="#CDD2E4"/>
+  <color name="bg2" value="#BCC2DB"/>
+  <color name="bg3" value="#ACB4D2"/>
+  <color name="fg1" value="#20292B"/>
+  <color name="fg2" value="#364449"/>
+  <color name="fg3" value="#4B6066"/>
+  <color name="hl1" value="#617B83"/>
+  <color name="hl2" value="#7B959D"/>
+  <color name="hl3" value="#617B83"/>
 
-  <color name="c1" value="#084d91"/>
-  <color name="c2" value="#912a08"/>
-  <color name="c3" value="#08914d"/>
-  <color name="c4" value="#91082a"/>
-  <color name="c5" value="#916f08"/>
-  <color name="c6" value="#089191"/>
+  <color name="c1" value="#2C5985"/>
+  <color name="c2" value="#85422C"/>
+  <color name="c3" value="#2C8559"/>
+  <color name="c4" value="#852C42"/>
+  <color name="c5" value="#856F2C"/>
+  <color name="c6" value="#2C8585"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

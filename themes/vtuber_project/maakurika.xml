@@ -4,22 +4,22 @@
     <_description>maakurika by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1b2c32"/>
-  <color name="bg2" value="#243a42"/>
-  <color name="bg3" value="#2d4953"/>
-  <color name="fg1" value="#f0c2c2"/>
-  <color name="fg2" value="#e69999"/>
-  <color name="fg3" value="#db7070"/>
-  <color name="hl1" value="#a3ba5e"/>
-  <color name="hl2" value="#8aa145"/>
-  <color name="hl3" value="#6b7d36"/>
+  <color name="bg1" value="#2F3C41"/>
+  <color name="bg2" value="#39494F"/>
+  <color name="bg3" value="#44575E"/>
+  <color name="fg1" value="#EEB3B3"/>
+  <color name="fg2" value="#CEA0A0"/>
+  <color name="fg3" value="#C4AAAA"/>
+  <color name="hl1" value="#A6AF8C"/>
+  <color name="hl2" value="#8F9A6E"/>
+  <color name="hl3" value="#747E57"/>
 
-  <color name="c1" value="#f76eb3"/>
-  <color name="c2" value="#6ef790"/>
-  <color name="c3" value="#f7b56e"/>
-  <color name="c4" value="#90f76e"/>
-  <color name="c5" value="#d5f76e"/>
-  <color name="c6" value="#f76e6e"/>
+  <color name="c1" value="#D88CB2"/>
+  <color name="c2" value="#8CD89F"/>
+  <color name="c3" value="#D8B38C"/>
+  <color name="c4" value="#9FD88C"/>
+  <color name="c5" value="#C5D88C"/>
+  <color name="c6" value="#D88C8C"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

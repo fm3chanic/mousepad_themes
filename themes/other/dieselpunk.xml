@@ -18,8 +18,8 @@
   <color name="c2" value="#d1b561"/>
   <color name="c3" value="#70c299"/>
   <color name="c4" value="#99c270"/>
-  <color name="c5" value="#ad70c2"/>
-  <color name="c6" value="#c27099"/>
+  <color name="c5" value="#75abbd"/>
+  <color name="c6" value="#bd7599"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

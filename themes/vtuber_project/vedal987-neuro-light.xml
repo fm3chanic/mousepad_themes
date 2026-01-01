@@ -4,22 +4,22 @@
     <_description>vedal987-neuro-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#f6dabc"/>
-  <color name="bg2" value="#f3cda5"/>
-  <color name="bg3" value="#f0c18f"/>
-  <color name="fg1" value="#3d1e0f"/>
-  <color name="fg2" value="#603420"/>
-  <color name="fg3" value="#7d4b36"/>
-  <color name="hl1" value="#956350"/>
-  <color name="hl2" value="#af7c6a"/>
-  <color name="hl3" value="#c1998b"/>
+  <color name="bg1" value="#E4D9CD"/>
+  <color name="bg2" value="#DBCCBC"/>
+  <color name="bg3" value="#D2BFAC"/>
+  <color name="fg1" value="#2B2420"/>
+  <color name="fg2" value="#493C36"/>
+  <color name="fg3" value="#66534B"/>
+  <color name="hl1" value="#836B61"/>
+  <color name="hl2" value="#9D847B"/>
+  <color name="hl3" value="#836A61"/>
 
-  <color name="c1" value="#253f8e"/>
-  <color name="c2" value="#983a1b"/>
-  <color name="c3" value="#258e59"/>
-  <color name="c4" value="#a15c12"/>
-  <color name="c5" value="#9c7b16"/>
-  <color name="c6" value="#1b7898"/>
+  <color name="c1" value="#2C4285"/>
+  <color name="c2" value="#85422C"/>
+  <color name="c3" value="#2C8558"/>
+  <color name="c4" value="#855A2C"/>
+  <color name="c5" value="#856F2C"/>
+  <color name="c6" value="#2C6F85"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

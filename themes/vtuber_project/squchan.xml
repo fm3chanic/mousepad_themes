@@ -4,22 +4,22 @@
     <_description>squchan by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#2c2121"/>
-  <color name="bg2" value="#3a2c2c"/>
-  <color name="bg3" value="#493737"/>
-  <color name="fg1" value="#f7e6ba"/>
-  <color name="fg2" value="#ecd493"/>
-  <color name="fg3" value="#dbbf70"/>
-  <color name="hl1" value="#af6a8c"/>
-  <color name="hl2" value="#955073"/>
-  <color name="hl3" value="#743e59"/>
+  <color name="bg1" value="#412F2F"/>
+  <color name="bg2" value="#4F3939"/>
+  <color name="bg3" value="#5E4444"/>
+  <color name="fg1" value="#EEDEB3"/>
+  <color name="fg2" value="#CEC2A0"/>
+  <color name="fg3" value="#C4BDAA"/>
+  <color name="hl1" value="#AF8C9D"/>
+  <color name="hl2" value="#9A6E84"/>
+  <color name="hl3" value="#7E576B"/>
 
-  <color name="c1" value="#7594f0"/>
-  <color name="c2" value="#f07594"/>
-  <color name="c3" value="#d175f0"/>
-  <color name="c4" value="#f09475"/>
-  <color name="c5" value="#f075d1"/>
-  <color name="c6" value="#9475f0"/>
+  <color name="c1" value="#8C9FD8"/>
+  <color name="c2" value="#D88C9F"/>
+  <color name="c3" value="#C58CD8"/>
+  <color name="c4" value="#D89F8C"/>
+  <color name="c5" value="#D88CC5"/>
+  <color name="c6" value="#9F8CD8"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

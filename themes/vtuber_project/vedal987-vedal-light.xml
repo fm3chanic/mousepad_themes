@@ -4,22 +4,22 @@
     <_description>vedal987-vedal-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#cfe4cd"/>
-  <color name="bg2" value="#bfdbbd"/>
-  <color name="bg3" value="#afd2ac"/>
-  <color name="fg1" value="#0f3d28"/>
-  <color name="fg2" value="#206041"/>
-  <color name="fg3" value="#367d59"/>
-  <color name="hl1" value="#509573"/>
-  <color name="hl2" value="#6aaf8c"/>
-  <color name="hl3" value="#8bc1a6"/>
+  <color name="bg1" value="#CFE4CD"/>
+  <color name="bg2" value="#BEDBBC"/>
+  <color name="bg3" value="#AFD2AC"/>
+  <color name="fg1" value="#202B26"/>
+  <color name="fg2" value="#364940"/>
+  <color name="fg3" value="#4B6659"/>
+  <color name="hl1" value="#618372"/>
+  <color name="hl2" value="#7B9D8C"/>
+  <color name="hl3" value="#618372"/>
 
-  <color name="c1" value="#862d43"/>
-  <color name="c2" value="#2d8670"/>
-  <color name="c3" value="#702d86"/>
-  <color name="c4" value="#2d862d"/>
-  <color name="c5" value="#70862d"/>
-  <color name="c6" value="#862d70"/>
+  <color name="c1" value="#852C42"/>
+  <color name="c2" value="#2C856F"/>
+  <color name="c3" value="#6F2C85"/>
+  <color name="c4" value="#2C852C"/>
+  <color name="c5" value="#6F852C"/>
+  <color name="c6" value="#852C6F"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
