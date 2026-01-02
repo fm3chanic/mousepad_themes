@@ -23,4 +23,11 @@ The theme should now be selectable in your preferences or directly via *"View"*.
 
 ### Contribution:
 
-If you want to help maintaining the themes, please use colors from the according color scheme. You can find the scheme files in the repo linked above.
+The themes are based on the mapped template in directory **/tools**.<br>
+The python script (_\[...\]\_load_colors.py_) reads the colors from a html file from [color_schemes](https://github.com/fm3chanic/color_schemes) and uses replace to fill in the colors.<br>
+
+If you want to work on colors it makes the most sense to change the colors in repository [color_schemes](https://github.com/fm3chanic/color_schemes) so the changes can be applied to all applications using the theme.<br>
+If you want to work on the mapping of the colors it might make sense to change the base template, so changes can be applied to all themes of this application.<br>
+
+The only exception of this is the gruber-darker theme, which does not follow this standard.<br><br>
+Neverless, **I also welcome contribution not following this standard**. The standard was made to keep it maintainable for one person, not to block community ideas.<br>
