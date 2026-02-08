@@ -4,15 +4,15 @@
     <_description>zen by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#333333"/>
-  <color name="bg2" value="#404040"/>
-  <color name="bg3" value="#4d4d4d"/>
-  <color name="fg1" value="#e9e9e2"/>
-  <color name="fg2" value="#d2d3c5"/>
-  <color name="fg3" value="#bcbda8"/>
-  <color name="hl1" value="#a6a78b"/>
-  <color name="hl2" value="#8f916e"/>
-  <color name="hl3" value="#727458"/>
+  <color name="bg1" value="#383838"/>
+  <color name="bg2" value="#454545"/>
+  <color name="bg3" value="#525252"/>
+  <color name="fg1" value="#e7eeb4"/>
+  <color name="fg2" value="#cacfa1"/>
+  <color name="fg3" value="#c2c5ab"/>
+  <color name="hl1" value="#adb08d"/>
+  <color name="hl2" value="#989b6f"/>
+  <color name="hl3" value="#7c7e58"/>
 
   <color name="c1" value="#b87a7a"/>
   <color name="c2" value="#c2c270"/>

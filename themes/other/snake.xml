@@ -4,15 +4,15 @@
     <_description>snake by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#333333"/>
-  <color name="bg2" value="#404040"/>
-  <color name="bg3" value="#4d4d4d"/>
-  <color name="fg1" value="#e2edde"/>
-  <color name="fg2" value="#c5dbbd"/>
-  <color name="fg3" value="#a7c99c"/>
-  <color name="hl1" value="#7ab88a"/>
-  <color name="hl2" value="#59a66c"/>
-  <color name="hl3" value="#478557"/>
+  <color name="bg1" value="#383838"/>
+  <color name="bg2" value="#454545"/>
+  <color name="bg3" value="#525252"/>
+  <color name="fg1" value="#b4eec2"/>
+  <color name="fg2" value="#a1ceac"/>
+  <color name="fg3" value="#abc4b1"/>
+  <color name="hl1" value="#8db095"/>
+  <color name="hl2" value="#6f9b7a"/>
+  <color name="hl3" value="#587e61"/>
 
   <color name="c1" value="#e9977c"/>
   <color name="c2" value="#e9e97c"/>
