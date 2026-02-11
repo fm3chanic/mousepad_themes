@@ -4,9 +4,9 @@
     <_description>rage by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#372E42"/>
-  <color name="bg2" value="#433850"/>
-  <color name="bg3" value="#504360"/>
+  <color name="bg1" value="#3A333C"/>
+  <color name="bg2" value="#483F4B"/>
+  <color name="bg3" value="#554A58"/>
   <color name="fg1" value="#d0c2df"/>
   <color name="fg2" value="#b7a2cf"/>
   <color name="fg3" value="#b6aac4"/>
@@ -14,12 +14,12 @@
   <color name="hl2" value="#9b6e85"/>
   <color name="hl3" value="#7E596c"/>
 
-  <color name="c1" value="#CC66A2"/>
-  <color name="c2" value="#CCB366"/>
-  <color name="c3" value="#66CBCC"/>
-  <color name="c4" value="#9CCC66"/>
-  <color name="c5" value="#8866CC"/>
-  <color name="c6" value="#BB66CC"/>
+  <color name="c1" value="#c270a0"/>
+  <color name="c2" value="#c99482"/>
+  <color name="c3" value="#82a6c9"/>
+  <color name="c4" value="#8bc198"/>
+  <color name="c5" value="#9482c9"/>
+  <color name="c6" value="#bd75bd"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
