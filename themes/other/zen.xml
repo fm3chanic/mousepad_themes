@@ -4,22 +4,22 @@
     <_description>zen by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#3A333C"/>
-  <color name="bg2" value="#483F4B"/>
-  <color name="bg3" value="#554A58"/>
-  <color name="fg1" value="#E0D9C4"/>
+  <color name="bg1" value="#3d3834"/>
+  <color name="bg2" value="#58514b"/>
+  <color name="bg3" value="#746a63"/>
+  <color name="fg1" value="#d9d6cb"/>
   <color name="fg2" value="#C3BDAC"/>
   <color name="fg3" value="#BDBAB2"/>
   <color name="hl1" value="#A5A195"/>
   <color name="hl2" value="#8F8A7B"/>
   <color name="hl3" value="#746F62"/>
 
-  <color name="c1" value="#C27171"/>
-  <color name="c2" value="#C2B071"/>
-  <color name="c3" value="#71C2C2"/>
-  <color name="c4" value="#8AC271"/>
-  <color name="c5" value="#719EC2"/>
-  <color name="c6" value="#C271AE"/>
+  <color name="c1" value="#c59687"/>
+  <color name="c2" value="#c5c587"/>
+  <color name="c3" value="#8bc1a6"/>
+  <color name="c4" value="#a6c587"/>
+  <color name="c5" value="#8bb3c1"/>
+  <color name="c6" value="#c18ba6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
