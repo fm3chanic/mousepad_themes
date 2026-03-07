@@ -4,9 +4,9 @@
     <_description>cloud-forest by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#39472B"/>
-  <color name="bg2" value="#465633"/>
-  <color name="bg3" value="#53653D"/>
+  <color name="bg1" value="#394230"/>
+  <color name="bg2" value="#45503a"/>
+  <color name="bg3" value="#525f45"/>
   <color name="fg1" value="#C2E0E0"/>
   <color name="fg2" value="#A2CFCF"/>
   <color name="fg3" value="#B0C1C1"/>
@@ -16,9 +16,9 @@
 
   <color name="c1" value="#d98cac"/>
   <color name="c2" value="#E0C983"/>
-  <color name="c3" value="#83E0AA"/>
+  <color name="c3" value="#8cd9d9"/>
   <color name="c4" value="#B2E083"/>
-  <color name="c5" value="#83D0E0"/>
+  <color name="c5" value="#8cb3d9"/>
   <color name="c6" value="#c18cd9"/>
 
   <!-- global -->
