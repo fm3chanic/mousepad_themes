@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="rose" _name="rose" version="1.0">
+<style-scheme id="aquatic" _name="aquatic" version="1.0">
     <author>fm3chanic</author>
-    <_description>rose by fm3chanic</_description>
+    <_description>aquatic by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#181d18"/>
-  <color name="bg2" value="#222822"/>
-  <color name="bg3" value="#2F372F"/>
-  <color name="fg1" value="#dbbdc4"/>
-  <color name="fg2" value="#c99BA6"/>
-  <color name="fg3" value="#b77a89"/>
-  <color name="hl1" value="#a65b6d"/>
-  <color name="hl2" value="#844857"/>
-  <color name="hl3" value="#633641"/>
+  <color name="bg1" value="#3C7F8C"/>
+  <color name="bg2" value="#4591A0"/>
+  <color name="bg3" value="#4DA1B1"/>
+  <color name="fg1" value="#DCF0E5"/>
+  <color name="fg2" value="#B8E1CA"/>
+  <color name="fg3" value="#93D1AE"/>
+  <color name="hl1" value="#2C4C52"/>
+  <color name="hl2" value="#365C63"/>
+  <color name="hl3" value="#3F6C74"/>
 
-  <color name="c1" value="#be405d"/>
-  <color name="c2" value="#bebe40"/>
-  <color name="c3" value="#40b4be"/>
-  <color name="c4" value="#40be75"/>
-  <color name="c5" value="#404abe"/>
-  <color name="c6" value="#9f40be"/>
+  <color name="c1" value="#c08c8c"/>
+  <color name="c2" value="#CCBA65"/>
+  <color name="c3" value="#65CCC9"/>
+  <color name="c4" value="#88CC65"/>
+  <color name="c5" value="#7db3e8"/>
+  <color name="c6" value="#b48bc1"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

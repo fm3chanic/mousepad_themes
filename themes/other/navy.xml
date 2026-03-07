@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="viper" _name="viper" version="1.0">
+<style-scheme id="navy" _name="navy" version="1.0">
     <author>fm3chanic</author>
-    <_description>viper by fm3chanic</_description>
+    <_description>navy by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#232729"/>
-  <color name="bg2" value="#2E3436"/>
-  <color name="bg3" value="#3A4144"/>
-  <color name="fg1" value="#C2EFCE"/>
-  <color name="fg2" value="#A1DFB0"/>
-  <color name="fg3" value="#81C992"/>
-  <color name="hl1" value="#6AAF7B"/>
-  <color name="hl2" value="#519762"/>
-  <color name="hl3" value="#3F754C"/>
+  <color name="bg1" value="#5E7278"/>
+  <color name="bg2" value="#698086"/>
+  <color name="bg3" value="#768E94"/>
+  <color name="fg1" value="#DAE3EF"/>
+  <color name="fg2" value="#B8CAE1"/>
+  <color name="fg3" value="#94AFD2"/>
+  <color name="hl1" value="#3C4A4D"/>
+  <color name="hl2" value="#48585C"/>
+  <color name="hl3" value="#526469"/>
 
-  <color name="c1" value="#DB6F77"/>
-  <color name="c2" value="#EFD074"/>
-  <color name="c3" value="#78D2C3"/>
-  <color name="c4" value="#87D278"/>
-  <color name="c5" value="#6F93DB"/>
-  <color name="c6" value="#CA78D2"/>
+  <color name="c1" value="#c27e70"/>
+  <color name="c2" value="#CCBB66"/>
+  <color name="c3" value="#66CCA1"/>
+  <color name="c4" value="#A1CC66"/>
+  <color name="c5" value="#66ABCC"/>
+  <color name="c6" value="#a870c2"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

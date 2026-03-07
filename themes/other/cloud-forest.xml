@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="viper" _name="viper" version="1.0">
+<style-scheme id="cloud-forest" _name="cloud-forest" version="1.0">
     <author>fm3chanic</author>
-    <_description>viper by fm3chanic</_description>
+    <_description>cloud-forest by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#232729"/>
-  <color name="bg2" value="#2E3436"/>
-  <color name="bg3" value="#3A4144"/>
-  <color name="fg1" value="#C2EFCE"/>
-  <color name="fg2" value="#A1DFB0"/>
-  <color name="fg3" value="#81C992"/>
-  <color name="hl1" value="#6AAF7B"/>
-  <color name="hl2" value="#519762"/>
-  <color name="hl3" value="#3F754C"/>
+  <color name="bg1" value="#39472B"/>
+  <color name="bg2" value="#465633"/>
+  <color name="bg3" value="#53653D"/>
+  <color name="fg1" value="#C2E0E0"/>
+  <color name="fg2" value="#A2CFCF"/>
+  <color name="fg3" value="#B0C1C1"/>
+  <color name="hl1" value="#92A9A9"/>
+  <color name="hl2" value="#799595"/>
+  <color name="hl3" value="#5F7878"/>
 
-  <color name="c1" value="#DB6F77"/>
-  <color name="c2" value="#EFD074"/>
-  <color name="c3" value="#78D2C3"/>
-  <color name="c4" value="#87D278"/>
-  <color name="c5" value="#6F93DB"/>
-  <color name="c6" value="#CA78D2"/>
+  <color name="c1" value="#d98cac"/>
+  <color name="c2" value="#E0C983"/>
+  <color name="c3" value="#83E0AA"/>
+  <color name="c4" value="#B2E083"/>
+  <color name="c5" value="#83D0E0"/>
+  <color name="c6" value="#c18cd9"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
