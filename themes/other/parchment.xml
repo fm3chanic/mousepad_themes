@@ -10,16 +10,16 @@
   <color name="fg1" value="#1a2633"/>
   <color name="fg2" value="#2c3f55"/>
   <color name="fg3" value="#323f4c"/>
-  <color name="hl1" value="#c6cfd9"/>
-  <color name="hl2" value="#afbcca"/>
-  <color name="hl3" value="#9bacbc"/>
+  <color name="hl1" value="#d8d3c5"/>
+  <color name="hl2" value="#cac3af"/>
+  <color name="hl3" value="#bcb39a"/>
 
-  <color name="c1" value="#862d4a"/>
+  <color name="c1" value="#7d364e"/>
   <color name="c2" value="#996f33"/>
   <color name="c3" value="#2d8684"/>
-  <color name="c4" value="#2d864a"/>
+  <color name="c4" value="#367d4e"/>
   <color name="c5" value="#2d4386"/>
-  <color name="c6" value="#862d70"/>
+  <color name="c6" value="#7d366b"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
