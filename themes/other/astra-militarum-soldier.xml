@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="adeptus-mechanicus-dark" _name="adeptus-mechanicus-dark" version="1.0">
+<style-scheme id="astra-militarum-soldier" _name="astra-militarum-soldier" version="1.0">
     <author>fm3chanic</author>
-    <_description>adeptus-mechanicus-dark by fm3chanic</_description>
+    <_description>astra-militarum-soldier by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#492731"/>
-  <color name="bg2" value="#592F3B"/>
-  <color name="bg3" value="#6A3846"/>
-  <color name="fg1" value="#C0D1E4"/>
-  <color name="fg2" value="#9BB7D4"/>
-  <color name="fg3" value="#A9B7C6"/>
-  <color name="hl1" value="#8A9EB2"/>
-  <color name="hl2" value="#6B849D"/>
-  <color name="hl3" value="#556B81"/>
+  <color name="bg1" value="#39422C"/>
+  <color name="bg2" value="#475337"/>
+  <color name="bg3" value="#546241"/>
+  <color name="fg1" value="#E8E2BD"/>
+  <color name="fg2" value="#DBD095"/>
+  <color name="fg3" value="#CDC6A3"/>
+  <color name="hl1" value="#BCB283"/>
+  <color name="hl2" value="#AA9E62"/>
+  <color name="hl3" value="#8B804B"/>
 
-  <color name="c1" value="#CC6677"/>
-  <color name="c2" value="#CCB366"/>
-  <color name="c3" value="#66CBCC"/>
-  <color name="c4" value="#80b381"/>
-  <color name="c5" value="#6687CC"/>
-  <color name="c6" value="#c270a7"/>
+  <color name="c1" value="#CC6666"/>
+  <color name="c2" value="#CCA166"/>
+  <color name="c3" value="#66B1CC"/>
+  <color name="c4" value="#66CC70"/>
+  <color name="c5" value="#666ECC"/>
+  <color name="c6" value="#CC66A1"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

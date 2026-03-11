@@ -4,22 +4,22 @@
     <_description>cloud-forest by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#394230"/>
-  <color name="bg2" value="#45503a"/>
-  <color name="bg3" value="#525f45"/>
-  <color name="fg1" value="#C2E0E0"/>
-  <color name="fg2" value="#A2CFCF"/>
-  <color name="fg3" value="#B0C1C1"/>
-  <color name="hl1" value="#92A9A9"/>
-  <color name="hl2" value="#799595"/>
-  <color name="hl3" value="#5F7878"/>
+  <color name="bg1" value="#2D4531"/>
+  <color name="bg2" value="#37523C"/>
+  <color name="bg3" value="#416146"/>
+  <color name="fg1" value="#B5EDED"/>
+  <color name="fg2" value="#9CD5D5"/>
+  <color name="fg3" value="#AAC7C7"/>
+  <color name="hl1" value="#8AB1B1"/>
+  <color name="hl2" value="#6F9F9F"/>
+  <color name="hl3" value="#568181"/>
 
-  <color name="c1" value="#d98cac"/>
-  <color name="c2" value="#E0C983"/>
-  <color name="c3" value="#8cd9d9"/>
-  <color name="c4" value="#B2E083"/>
-  <color name="c5" value="#8cb3d9"/>
-  <color name="c6" value="#c18cd9"/>
+  <color name="c1" value="#C27193"/>
+  <color name="c2" value="#CC9166"/>
+  <color name="c3" value="#6DC792"/>
+  <color name="c4" value="#99C769"/>
+  <color name="c5" value="#6BB7C7"/>
+  <color name="c6" value="#A670C1"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

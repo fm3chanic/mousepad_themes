@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="adeptus-mechanicus-dark" _name="adeptus-mechanicus-dark" version="1.0">
+<style-scheme id="classic" _name="classic" version="1.0">
     <author>fm3chanic</author>
-    <_description>adeptus-mechanicus-dark by fm3chanic</_description>
+    <_description>classic by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#492731"/>
-  <color name="bg2" value="#592F3B"/>
-  <color name="bg3" value="#6A3846"/>
-  <color name="fg1" value="#C0D1E4"/>
-  <color name="fg2" value="#9BB7D4"/>
-  <color name="fg3" value="#A9B7C6"/>
-  <color name="hl1" value="#8A9EB2"/>
-  <color name="hl2" value="#6B849D"/>
-  <color name="hl3" value="#556B81"/>
+  <color name="bg1" value="#181818"/>
+  <color name="bg2" value="#282828"/>
+  <color name="bg3" value="#333333"/>
+  <color name="fg1" value="#DCE8F0"/>
+  <color name="fg2" value="#C2CED7"/>
+  <color name="fg3" value="#A2B5C2"/>
+  <color name="hl1" value="#828282"/>
+  <color name="hl2" value="#666666"/>
+  <color name="hl3" value="#4B4B4B"/>
 
-  <color name="c1" value="#CC6677"/>
-  <color name="c2" value="#CCB366"/>
-  <color name="c3" value="#66CBCC"/>
-  <color name="c4" value="#80b381"/>
-  <color name="c5" value="#6687CC"/>
-  <color name="c6" value="#c270a7"/>
+  <color name="c1" value="#BF4040"/>
+  <color name="c2" value="#D8AE27"/>
+  <color name="c3" value="#40BFB4"/>
+  <color name="c4" value="#75BF40"/>
+  <color name="c5" value="#405FBF"/>
+  <color name="c6" value="#b34d83"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

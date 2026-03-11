@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="acid-cloud" _name="acid-cloud" version="1.0">
+<style-scheme id="adeptus-mechanicus-darker" _name="adeptus-mechanicus-darker" version="1.0">
     <author>fm3chanic</author>
-    <_description>acid-cloud by fm3chanic</_description>
+    <_description>adeptus-mechanicus-darker by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#161d16"/>
-  <color name="bg2" value="#212c21"/>
-  <color name="bg3" value="#2c3a2c"/>
-  <color name="fg1" value="#c5d3c5"/>
-  <color name="fg2" value="#a8bda8"/>
-  <color name="fg3" value="#8ba78b"/>
-  <color name="hl1" value="#6e916e"/>
-  <color name="hl2" value="#587458"/>
-  <color name="hl3" value="#425742"/>
+  <color name="bg1" value="#321B22"/>
+  <color name="bg2" value="#41232C"/>
+  <color name="bg3" value="#522C37"/>
+  <color name="fg1" value="#C9DEE8"/>
+  <color name="fg2" value="#B7C3C9"/>
+  <color name="fg3" value="#99ABB3"/>
+  <color name="hl1" value="#7B929C"/>
+  <color name="hl2" value="#617882"/>
+  <color name="hl3" value="#4B5D65"/>
 
-  <color name="c1" value="#f49271"/>
-  <color name="c2" value="#f4f471"/>
-  <color name="c3" value="#71f4b3"/>
-  <color name="c4" value="#b3f471"/>
-  <color name="c5" value="#71f4f4"/>
-  <color name="c6" value="#f688a4"/>
+  <color name="c1" value="#BB6087"/>
+  <color name="c2" value="#BB9A60"/>
+  <color name="c3" value="#60BBBA"/>
+  <color name="c4" value="#85af6a"/>
+  <color name="c5" value="#6068BB"/>
+  <color name="c6" value="#af6aaf"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
