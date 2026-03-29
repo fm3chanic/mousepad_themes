@@ -4,22 +4,22 @@
     <_description>chizra by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#423E30"/>
-  <color name="bg2" value="#4F4A3A"/>
-  <color name="bg3" value="#605A45"/>
-  <color name="fg1" value="#B6EDDA"/>
-  <color name="fg2" value="#8BE2C5"/>
+  <color name="bg1" value="#3f3b31"/>
+  <color name="bg2" value="#4d493d"/>
+  <color name="bg3" value="#5b5648"/>
+  <color name="fg1" value="#bfe3d7"/>
+  <color name="fg2" value="#9bd4c1"/>
   <color name="fg3" value="#A1CCBD"/>
-  <color name="hl1" value="#82BCA8"/>
-  <color name="hl2" value="#5FA990"/>
-  <color name="hl3" value="#4B8C77"/>
+  <color name="hl1" value="#8bb1a4"/>
+  <color name="hl2" value="#6c9d8d"/>
+  <color name="hl3" value="#568173"/>
 
-  <color name="c1" value="#af6a7b"/>
-  <color name="c2" value="#C69854"/>
-  <color name="c3" value="#5FBBBA"/>
-  <color name="c4" value="#75BA60"/>
-  <color name="c5" value="#5F6FBB"/>
-  <color name="c6" value="#986aaf"/>
+  <color name="c1" value="#c18b98"/>
+  <color name="c2" value="#d2af79"/>
+  <color name="c3" value="#82c9c8"/>
+  <color name="c4" value="#8bc198"/>
+  <color name="c5" value="#82a6c9"/>
+  <color name="c6" value="#c18bb3"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
