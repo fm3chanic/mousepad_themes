@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="navy" _name="navy" version="1.0">
+<style-scheme id="rust" _name="rust" version="1.0">
     <author>fm3chanic</author>
-    <_description>navy by fm3chanic</_description>
+    <_description>rust by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#435155"/>
-  <color name="bg2" value="#384347"/>
-  <color name="bg3" value="#2C3639"/>
-  <color name="fg1" value="#DAE3EF"/>
-  <color name="fg2" value="#B7C9E0"/>
-  <color name="fg3" value="#93AED1"/>
-  <color name="hl1" value="#6F888F"/>
-  <color name="hl2" value="#647A80"/>
-  <color name="hl3" value="#596C72"/>
+  <color name="bg1" value="#3E3430"/>
+  <color name="bg2" value="#4D403C"/>
+  <color name="bg3" value="#5B4C47"/>
+  <color name="fg1" value="#E4DDBD"/>
+  <color name="fg2" value="#CEC6A0"/>
+  <color name="fg3" value="#C7C1A7"/>
+  <color name="hl1" value="#B39788"/>
+  <color name="hl2" value="#9F7C69"/>
+  <color name="hl3" value="#826453"/>
 
-  <color name="c1" value="#ce7e7e"/>
-  <color name="c2" value="#d5d590"/>
-  <color name="c3" value="#90d5c4"/>
-  <color name="c4" value="#94c982"/>
-  <color name="c5" value="#79bcd2"/>
-  <color name="c6" value="#be94d1"/>
+  <color name="c1" value="#C17D70"/>
+  <color name="c2" value="#D2AD79"/>
+  <color name="c3" value="#7AB797"/>
+  <color name="c4" value="#ADC170"/>
+  <color name="c5" value="#8D82C9"/>
+  <color name="c6" value="#C982AC"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
