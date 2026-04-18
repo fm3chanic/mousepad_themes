@@ -4,22 +4,22 @@
     <_description>moss by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#6C8648"/>
-  <color name="bg2" value="#77944F"/>
-  <color name="bg3" value="#85A558"/>
-  <color name="fg1" value="#E8EFDB"/>
-  <color name="fg2" value="#D2E0B7"/>
-  <color name="fg3" value="#BCD093"/>
-  <color name="hl1" value="#42512C"/>
-  <color name="hl2" value="#516436"/>
-  <color name="hl3" value="#5E743E"/>
+  <color name="bg1" value="#5B6335"/>
+  <color name="bg2" value="#4C522C"/>
+  <color name="bg3" value="#3C4223"/>
+  <color name="fg1" value="#EFF4D6"/>
+  <color name="fg2" value="#D9E0B7"/>
+  <color name="fg3" value="#C1C99B"/>
+  <color name="hl1" value="#ACB77A"/>
+  <color name="hl2" value="#98A559"/>
+  <color name="hl3" value="#798447"/>
 
-  <color name="c1" value="#d98ca6"/>
-  <color name="c2" value="#d9d28c"/>
-  <color name="c3" value="#8cd7d9"/>
-  <color name="c4" value="#9fdfa5"/>
-  <color name="c5" value="#9fafdf"/>
-  <color name="c6" value="#c8a6d9"/>
+  <color name="c1" value="#B77A8F"/>
+  <color name="c2" value="#CCC265"/>
+  <color name="c3" value="#70BFC1"/>
+  <color name="c4" value="#6BC673"/>
+  <color name="c5" value="#6B82C6"/>
+  <color name="c6" value="#A37AB7"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

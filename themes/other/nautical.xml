@@ -4,15 +4,15 @@
     <_description>nautical by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#2e2e42"/>
-  <color name="bg2" value="#383851"/>
-  <color name="bg3" value="#434360"/>
-  <color name="fg1" value="#e9d9ba"/>
-  <color name="fg2" value="#d5c19a"/>
-  <color name="fg3" value="#c9b58d"/>
-  <color name="hl1" value="#8d8db0"/>
-  <color name="hl2" value="#6f6f9b"/>
-  <color name="hl3" value="#58587e"/>
+  <color name="bg1" value="#1F202D"/>
+  <color name="bg2" value="#292B3C"/>
+  <color name="bg3" value="#34364B"/>
+  <color name="fg1" value="#E4E0CD"/>
+  <color name="fg2" value="#D2CBAC"/>
+  <color name="fg3" value="#C0B78A"/>
+  <color name="hl1" value="#AEA269"/>
+  <color name="hl2" value="#958950"/>
+  <color name="hl3" value="#746A3E"/>
 
   <color name="c1" value="#db8b70"/>
   <color name="c2" value="#dbc170"/>
