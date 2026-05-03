@@ -16,10 +16,10 @@
 
   <color name="c1" value="#C98288"/>
   <color name="c2" value="#D6CE74"/>
-  <color name="c3" value="#86B0C4"/>
+  <color name="c3" value="#7CB3CD"/>
   <color name="c4" value="#82C9AB"/>
   <color name="c5" value="#9098D4"/>
-  <color name="c6" value="#CF90D4"/>
+  <color name="c6" value="#C897CC"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

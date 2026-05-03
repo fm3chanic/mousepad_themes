@@ -7,16 +7,16 @@
   <color name="bg1" value="#282525"/>
   <color name="bg2" value="#363030"/>
   <color name="bg3" value="#433C3C"/>
-  <color name="fg1" value="#C1F0D0"/>
-  <color name="fg2" value="#A2DCB5"/>
-  <color name="fg3" value="#91BA9F"/>
-  <color name="hl1" value="#72A784/td>"/>
-  <color name="hl2" value="#598E6B"/>
-  <color name="hl3" value="#456E53"/>
+  <color name="fg1" value="#ACD2C2"/>
+  <color name="fg2" value="#8AC0AA"/>
+  <color name="fg3" value="#69AE92"/>
+  <color name="hl1" value="#509578"/>
+  <color name="hl2" value="#47846B"/>
+  <color name="hl3" value="#3E745D"/>
 
   <color name="c1" value="#c5879c"/>
-  <color name="c2" value="#c9a582"/>
-  <color name="c3" value="#9fc6c6"/>
+  <color name="c2" value="#DBD270"/>
+  <color name="c3" value="#93D1D1"/>
   <color name="c4" value="#b5c587"/>
   <color name="c5" value="#8b99c1"/>
   <color name="c6" value="#c18bb8"/>
