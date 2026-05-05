@@ -14,12 +14,12 @@
   <color name="hl2" value="#666666"/>
   <color name="hl3" value="#4B4B4B"/>
 
-  <color name="c1" value="#BF4040"/>
-  <color name="c2" value="#D8AE27"/>
-  <color name="c3" value="#40BFB4"/>
-  <color name="c4" value="#75BF40"/>
-  <color name="c5" value="#405FBF"/>
-  <color name="c6" value="#b34d83"/>
+  <color name="c1" value="#CB6666"/>
+  <color name="c2" value="#DFBE52"/>
+  <color name="c3" value="#66CBC3"/>
+  <color name="c4" value="#90CB66"/>
+  <color name="c5" value="#667ECB"/>
+  <color name="c6" value="#C1709B"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
