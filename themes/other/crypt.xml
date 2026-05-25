@@ -4,15 +4,15 @@
     <_description>crypt by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#3B333C"/>
-  <color name="bg2" value="#483F4A"/>
-  <color name="bg3" value="#554B58"/>
-  <color name="fg1" value="#B6F4A2"/>
-  <color name="fg2" value="#9BE084"/>
-  <color name="fg3" value="#89B77A"/>
-  <color name="hl1" value="#7D9375"/>
-  <color name="hl2" value="#708669"/>
-  <color name="hl3" value="#64775E"/>
+  <color name="bg1" value="#2E272E"/>
+  <color name="bg2" value="#3B333C"/>
+  <color name="bg3" value="#493F4A"/>
+  <color name="fg1" value="#C4F4A2"/>
+  <color name="fg2" value="#B9E083"/>
+  <color name="fg3" value="#9DB779"/>
+  <color name="hl1" value="#869275"/>
+  <color name="hl2" value="#798569"/>
+  <color name="hl3" value="#6C775E"/>
 
   <color name="c1" value="#C1707B"/>
   <color name="c2" value="#D6985B"/>

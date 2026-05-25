@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="torchlight-sky-over-zerypesh" _name="torchlight-sky-over-zerypesh" version="1.0">
+<style-scheme id="torchlight-camp-dawn" _name="torchlight-camp-dawn" version="1.0">
     <author>fm3chanic</author>
-    <_description>torchlight-sky-over-zerypesh by fm3chanic</_description>
+    <_description>torchlight-camp-dawn by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1E1614"/>
-  <color name="bg2" value="#2D221E"/>
-  <color name="bg3" value="#3D2D28"/>
-  <color name="fg1" value="#A8E3EF"/>
-  <color name="fg2" value="#70BBC1"/>
-  <color name="fg3" value="#6BA2AF"/>
-  <color name="hl1" value="#B17C4C"/>
-  <color name="hl2" value="#986232"/>
-  <color name="hl3" value="#7A4A1E"/>
+  <color name="bg1" value="#2D211E"/>
+  <color name="bg2" value="#3D2C28"/>
+  <color name="bg3" value="#4C3833"/>
+  <color name="fg1" value="#F0BE77"/>
+  <color name="fg2" value="#D4A057"/>
+  <color name="fg3" value="#D08745"/>
+  <color name="hl1" value="#B15C4C"/>
+  <color name="hl2" value="#8D493C"/>
+  <color name="hl3" value="#6A362C"/>
 
-  <color name="c1" value="#CB544D"/>
-  <color name="c2" value="#EAA747"/>
-  <color name="c3" value="#6FC19F"/>
-  <color name="c4" value="#A0C66B"/>
-  <color name="c5" value="#3088BA"/>
-  <color name="c6" value="#8A63B3"/>
+  <color name="c1" value="#CC6B65"/>
+  <color name="c2" value="#E7CC7C"/>
+  <color name="c3" value="#86C4AB"/>
+  <color name="c4" value="#AAC486"/>
+  <color name="c5" value="#60A8D1"/>
+  <color name="c6" value="#987AB7"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

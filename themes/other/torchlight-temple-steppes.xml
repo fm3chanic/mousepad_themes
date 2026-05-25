@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="torchlight-torches-of-winterwell" _name="torchlight-torches-of-winterwell" version="1.0">
+<style-scheme id="torchlight-temple-steppes" _name="torchlight-temple-steppes" version="1.0">
     <author>fm3chanic</author>
-    <_description>torchlight-torches-of-winterwell by fm3chanic</_description>
+    <_description>torchlight-temple-steppes by fm3chanic</_description>
 
   <!-- color values  -->
   <color name="bg1" value="#292321"/>
   <color name="bg2" value="#382F2D"/>
   <color name="bg3" value="#463B39"/>
-  <color name="fg1" value="#F0BE77"/>
-  <color name="fg2" value="#D4A057"/>
-  <color name="fg3" value="#D08745"/>
-  <color name="hl1" value="#658297"/>
-  <color name="hl2" value="#5C768A"/>
-  <color name="hl3" value="#52697B"/>
+  <color name="fg1" value="#C6EA94"/>
+  <color name="fg2" value="#B3C170"/>
+  <color name="fg3" value="#A3AF6B"/>
+  <color name="hl1" value="#659786"/>
+  <color name="hl2" value="#5B8A7A"/>
+  <color name="hl3" value="#527B6D"/>
 
   <color name="c1" value="#CC6B65"/>
   <color name="c2" value="#E7CC7C"/>

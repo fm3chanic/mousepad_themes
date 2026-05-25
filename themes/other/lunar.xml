@@ -4,9 +4,9 @@
     <_description>lunar by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#3B333C"/>
-  <color name="bg2" value="#483F4A"/>
-  <color name="bg3" value="#554B58"/>
+  <color name="bg1" value="#2E272E"/>
+  <color name="bg2" value="#3B333C"/>
+  <color name="bg3" value="#493F4A"/>
   <color name="fg1" value="#EAD6AD"/>
   <color name="fg2" value="#D1BC93"/>
   <color name="fg3" value="#B1A180"/>
