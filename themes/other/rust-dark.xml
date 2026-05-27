@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="torchlight-camp-dawn" _name="torchlight-camp-dawn" version="1.0">
+<style-scheme id="rust-dark" _name="rust-dark" version="1.0">
     <author>fm3chanic</author>
-    <_description>torchlight-camp-dawn by fm3chanic</_description>
+    <_description>rust-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1E1614"/>
-  <color name="bg2" value="#2D211E"/>
-  <color name="bg3" value="#3D2C28"/>
-  <color name="fg1" value="#F0BE77"/>
-  <color name="fg2" value="#D4A057"/>
-  <color name="fg3" value="#D08745"/>
-  <color name="hl1" value="#9E5041"/>
-  <color name="hl2" value="#854337"/>
-  <color name="hl3" value="#6C372C"/>
+  <color name="bg1" value="#2B2421"/>
+  <color name="bg2" value="#39302C"/>
+  <color name="bg3" value="#473C37"/>
+  <color name="fg1" value="#E4DDBD"/>
+  <color name="fg2" value="#CEC6A0"/>
+  <color name="fg3" value="#C7C1A7"/>
+  <color name="hl1" value="#9B7763"/>
+  <color name="hl2" value="#8C6B59"/>
+  <color name="hl3" value="#6C5345"/>
 
-  <color name="c1" value="#CC6B65"/>
-  <color name="c2" value="#DBB956"/>
-  <color name="c3" value="#86C4AB"/>
-  <color name="c4" value="#AAC486"/>
-  <color name="c5" value="#60A8D1"/>
-  <color name="c6" value="#987AB7"/>
+  <color name="c1" value="#C17D70"/>
+  <color name="c2" value="#D2AD79"/>
+  <color name="c3" value="#7AB797"/>
+  <color name="c4" value="#ADC170"/>
+  <color name="c5" value="#8D82C9"/>
+  <color name="c6" value="#C982AC"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

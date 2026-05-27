@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="torchlight-camp-dawn" _name="torchlight-camp-dawn" version="1.0">
+<style-scheme id="cryogenic-dark" _name="cryogenic-dark" version="1.0">
     <author>fm3chanic</author>
-    <_description>torchlight-camp-dawn by fm3chanic</_description>
+    <_description>cryogenic-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1E1614"/>
-  <color name="bg2" value="#2D211E"/>
-  <color name="bg3" value="#3D2C28"/>
-  <color name="fg1" value="#F0BE77"/>
-  <color name="fg2" value="#D4A057"/>
-  <color name="fg3" value="#D08745"/>
-  <color name="hl1" value="#9E5041"/>
-  <color name="hl2" value="#854337"/>
-  <color name="hl3" value="#6C372C"/>
+  <color name="bg1" value="#272923"/>
+  <color name="bg2" value="#35372E"/>
+  <color name="bg3" value="#43443A"/>
+  <color name="fg1" value="#b4e2ee"/>
+  <color name="fg2" value="#a1c5ce"/>
+  <color name="fg3" value="#abbfc4"/>
+  <color name="hl1" value="#7798A0"/>
+  <color name="hl2" value="#5E7E87"/>
+  <color name="hl3" value="#496269"/>
 
-  <color name="c1" value="#CC6B65"/>
-  <color name="c2" value="#DBB956"/>
-  <color name="c3" value="#86C4AB"/>
-  <color name="c4" value="#AAC486"/>
-  <color name="c5" value="#60A8D1"/>
-  <color name="c6" value="#987AB7"/>
+  <color name="c1" value="#dd889d"/>
+  <color name="c2" value="#CEDC88"/>
+  <color name="c3" value="#8cc6d9"/>
+  <color name="c4" value="#8cd9b3"/>
+  <color name="c5" value="#8c9fd9"/>
+  <color name="c6" value="#d98cc6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
