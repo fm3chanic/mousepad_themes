@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="adeptus-mechanicus-darker" _name="adeptus-mechanicus-darker" version="1.0">
+<style-scheme id="mining-and-crafting" _name="mining-and-crafting" version="1.0">
     <author>fm3chanic</author>
-    <_description>adeptus-mechanicus-darker by fm3chanic</_description>
+    <_description>mining-and-crafting by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#321B22"/>
-  <color name="bg2" value="#41232C"/>
-  <color name="bg3" value="#522C37"/>
-  <color name="fg1" value="#C6EAE2"/>
-  <color name="fg2" value="#A8D6CC"/>
-  <color name="fg3" value="#95B6AF"/>
-  <color name="hl1" value="#829693"/>
-  <color name="hl2" value="#687C79"/>
-  <color name="hl3" value="#51615E"/>
+  <color name="bg1" value="#272C30"/>
+  <color name="bg2" value="#32383D"/>
+  <color name="bg3" value="#3E464C"/>
+  <color name="fg1" value="#B7E7BC"/>
+  <color name="fg2" value="#9BCFA1"/>
+  <color name="fg3" value="#88B08D"/>
+  <color name="hl1" value="#9D7A74"/>
+  <color name="hl2" value="#84625D"/>
+  <color name="hl3" value="#70534F"/>
 
-  <color name="c1" value="#c58796"/>
-  <color name="c2" value="#c99482"/>
-  <color name="c3" value="#9fc6c6"/>
-  <color name="c4" value="#b5c587"/>
-  <color name="c5" value="#8ba6c1"/>
-  <color name="c6" value="#a68bc1"/>
+  <color name="c1" value="#D24753"/>
+  <color name="c2" value="#D1AE48"/>
+  <color name="c3" value="#53C4C6"/>
+  <color name="c4" value="#4FCA68"/>
+  <color name="c5" value="#4848D1"/>
+  <color name="c6" value="#AD53C6"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

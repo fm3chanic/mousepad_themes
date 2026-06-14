@@ -4,22 +4,22 @@
     <_description>medieval by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#493327"/>
-  <color name="bg2" value="#593E2F"/>
-  <color name="bg3" value="#6A4A38"/>
-  <color name="fg1" value="#C4D6DF"/>
-  <color name="fg2" value="#A3BECD"/>
-  <color name="fg3" value="#B1BABF"/>
-  <color name="hl1" value="#93A0A7"/>
-  <color name="hl2" value="#788890"/>
-  <color name="hl3" value="#606E75"/>
+  <color name="bg1" value="#312928"/>
+  <color name="bg2" value="#3E3433"/>
+  <color name="bg3" value="#4B3F3E"/>
+  <color name="fg1" value="#B6CBD8"/>
+  <color name="fg2" value="#9CB1BD"/>
+  <color name="fg3" value="#8A979F"/>
+  <color name="hl1" value="#76858F"/>
+  <color name="hl2" value="#65737C"/>
+  <color name="hl3" value="#546067"/>
 
-  <color name="c1" value="#BA5F78"/>
-  <color name="c2" value="#C08459"/>
-  <color name="c3" value="#6AAFAD"/>
-  <color name="c4" value="#6AAE6E"/>
-  <color name="c5" value="#5F76BB"/>
-  <color name="c6" value="#AF6AAF"/>
+  <color name="c1" value="#AF6875"/>
+  <color name="c2" value="#E4C468"/>
+  <color name="c3" value="#59A57F"/>
+  <color name="c4" value="#8CAB5D"/>
+  <color name="c5" value="#8879B8"/>
+  <color name="c6" value="#AE79B8"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
