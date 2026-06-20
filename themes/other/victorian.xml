@@ -4,9 +4,9 @@
     <_description>victorian by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#302E29"/>
-  <color name="bg2" value="#3C3933"/>
-  <color name="bg3" value="#4A463F"/>
+  <color name="bg1" value="#292723"/>
+  <color name="bg2" value="#37342E"/>
+  <color name="bg3" value="#44413A"/>
   <color name="fg1" value="#BECCCC"/>
   <color name="fg2" value="#A6B4B4"/>
   <color name="fg3" value="#8A9B9B"/>
