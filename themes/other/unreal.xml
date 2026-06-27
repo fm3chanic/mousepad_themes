@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="nautical" _name="nautical" version="1.0">
+<style-scheme id="unreal" _name="unreal" version="1.0">
     <author>fm3chanic</author>
-    <_description>nautical by fm3chanic</_description>
+    <_description>unreal by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1F202D"/>
-  <color name="bg2" value="#292B3C"/>
-  <color name="bg3" value="#34364B"/>
-  <color name="fg1" value="#E4E0CD"/>
-  <color name="fg2" value="#D2CBAC"/>
-  <color name="fg3" value="#C0B78A"/>
-  <color name="hl1" value="#AEA269"/>
-  <color name="hl2" value="#958950"/>
-  <color name="hl3" value="#746A3E"/>
+  <color name="bg1" value="#020E1E"/>
+  <color name="bg2" value="#0E2F36"/>
+  <color name="bg3" value="#00515C"/>
+  <color name="fg1" value="#B7EFFA"/>
+  <color name="fg2" value="#87E4F7"/>
+  <color name="fg3" value="#59DAF4"/>
+  <color name="hl1" value="#0FABC8"/>
+  <color name="hl2" value="#0E9BA3"/>
+  <color name="hl3" value="#057C89"/>
 
-  <color name="c1" value="#CC6575"/>
-  <color name="c2" value="#CBA165"/>
-  <color name="c3" value="#70C2B8"/>
-  <color name="c4" value="#C1C271"/>
-  <color name="c5" value="#688FCC"/>
-  <color name="c6" value="#B07AB7"/>
+  <color name="c1" value="#C44D69"/>
+  <color name="c2" value="#E48269"/>
+  <color name="c3" value="#A2E08D"/>
+  <color name="c4" value="#6B9752"/>
+  <color name="c5" value="#2E68BA"/>
+  <color name="c6" value="#D26DE3"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

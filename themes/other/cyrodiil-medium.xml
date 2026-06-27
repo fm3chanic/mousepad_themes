@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="cyrodiil" _name="cyrodiil" version="1.0">
+<style-scheme id="cyrodiil-medium" _name="cyrodiil-medium" version="1.0">
     <author>fm3chanic</author>
-    <_description>cyrodiil by fm3chanic</_description>
+    <_description>cyrodiil-medium by fm3chanic</_description>
 
   <!-- color values  -->
   <color name="bg1" value="#b7997b"/>

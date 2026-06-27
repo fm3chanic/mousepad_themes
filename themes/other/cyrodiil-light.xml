@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="nautical" _name="nautical" version="1.0">
+<style-scheme id="cyrodiil-light" _name="cyrodiil-light" version="1.0">
     <author>fm3chanic</author>
-    <_description>nautical by fm3chanic</_description>
+    <_description>cyrodiil-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1F202D"/>
-  <color name="bg2" value="#292B3C"/>
-  <color name="bg3" value="#34364B"/>
-  <color name="fg1" value="#E4E0CD"/>
-  <color name="fg2" value="#D2CBAC"/>
-  <color name="fg3" value="#C0B78A"/>
-  <color name="hl1" value="#AEA269"/>
-  <color name="hl2" value="#958950"/>
-  <color name="hl3" value="#746A3E"/>
+  <color name="bg1" value="#F3EEDB"/>
+  <color name="bg2" value="#DAD4BA"/>
+  <color name="bg3" value="#CABEB0"/>
+  <color name="fg1" value="#3F2927"/>
+  <color name="fg2" value="#52463A"/>
+  <color name="fg3" value="#665C58"/>
+  <color name="hl1" value="#8C7F5D"/>
+  <color name="hl2" value="#9F9071"/>
+  <color name="hl3" value="#C2B48F"/>
 
-  <color name="c1" value="#CC6575"/>
-  <color name="c2" value="#CBA165"/>
-  <color name="c3" value="#70C2B8"/>
-  <color name="c4" value="#C1C271"/>
-  <color name="c5" value="#688FCC"/>
-  <color name="c6" value="#B07AB7"/>
+  <color name="c1" value="#A3293F"/>
+  <color name="c2" value="#A36529"/>
+  <color name="c3" value="#29A37F"/>
+  <color name="c4" value="#84A329"/>
+  <color name="c5" value="#2976A3"/>
+  <color name="c6" value="#A32995"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

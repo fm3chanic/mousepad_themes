@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="cavern" _name="cavern" version="1.0">
+<style-scheme id="industrial-dark" _name="industrial-dark" version="1.0">
     <author>fm3chanic</author>
-    <_description>cavern by fm3chanic</_description>
+    <_description>industrial-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#272E2E"/>
-  <color name="bg2" value="#333B3C"/>
-  <color name="bg3" value="#3F494A"/>
-  <color name="fg1" value="#A2E8D6"/>
-  <color name="fg2" value="#88CCBB"/>
-  <color name="fg3" value="#6FB3A2"/>
-  <color name="hl1" value="#63878C"/>
-  <color name="hl2" value="#58787D"/>
-  <color name="hl3" value="#4D696D"/>
+  <color name="bg1" value="#313326"/>
+  <color name="bg2" value="#3C3C33"/>
+  <color name="bg3" value="#4A4D41"/>
+  <color name="fg1" value="#E4E2C5"/>
+  <color name="fg2" value="#D3D0A0"/>
+  <color name="fg3" value="#B3B18B"/>
+  <color name="hl1" value="#90947C"/>
+  <color name="hl2" value="#7B7F68"/>
+  <color name="hl3" value="#686B58"/>
 
-  <color name="c1" value="#D74343"/>
-  <color name="c2" value="#DFb06b"/>
-  <color name="c3" value="#5bc0bd"/>
-  <color name="c4" value="#9fc653"/>
-  <color name="c5" value="#679acc"/>
-  <color name="c6" value="#af5bc0"/>
+  <color name="c1" value="#E25C50"/>
+  <color name="c2" value="#E0A850"/>
+  <color name="c3" value="#71B7C1"/>
+  <color name="c4" value="#B3C271"/>
+  <color name="c5" value="#6588CC"/>
+  <color name="c6" value="#DF53AC"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

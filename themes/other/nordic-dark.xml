@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="industrial" _name="industrial" version="1.0">
+<style-scheme id="nordic-dark" _name="nordic-dark" version="1.0">
     <author>fm3chanic</author>
-    <_description>industrial by fm3chanic</_description>
+    <_description>nordic-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#D5D0C2"/>
-  <color name="bg2" value="#CAC4B3"/>
-  <color name="bg3" value="#C0B9A4"/>
-  <color name="fg1" value="#856F2C"/>
-  <color name="fg2" value="#937C38"/>
-  <color name="fg3" value="#A08944"/>
-  <color name="hl1" value="#A59259"/>
-  <color name="hl2" value="#AE9D69"/>
-  <color name="hl3" value="#B7A87A"/>
+  <color name="bg1" value="#222E34"/>
+  <color name="bg2" value="#2D3C44"/>
+  <color name="bg3" value="#364852"/>
+  <color name="fg1" value="#C7D6D8"/>
+  <color name="fg2" value="#A8C0C2"/>
+  <color name="fg3" value="#8BABAD"/>
+  <color name="hl1" value="#6D8F97"/>
+  <color name="hl2" value="#5E7C83"/>
+  <color name="hl3" value="#4E696F"/>
 
-  <color name="c1" value="#B7392D"/>
-  <color name="c2" value="#B7722D"/>
-  <color name="c3" value="#28A385"/>
-  <color name="c4" value="#6E9932"/>
-  <color name="c5" value="#2D72B7"/>
-  <color name="c6" value="#5B2DB7"/>
+  <color name="c1" value="#CB656D"/>
+  <color name="c2" value="#DBC355"/>
+  <color name="c3" value="#6FC1AD"/>
+  <color name="c4" value="#8CBF71"/>
+  <color name="c5" value="#65A1CB"/>
+  <color name="c6" value="#AD6FC1"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

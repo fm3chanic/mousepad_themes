@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="neo-industrial-dark" _name="neo-industrial-dark" version="1.0">
+<style-scheme id="industrial-light" _name="industrial-light" version="1.0">
     <author>fm3chanic</author>
-    <_description>neo-industrial-dark by fm3chanic</_description>
+    <_description>industrial-light by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#272923"/>
-  <color name="bg2" value="#35372E"/>
-  <color name="bg3" value="#43443A"/>
-  <color name="fg1" value="#e7e0bb"/>
-  <color name="fg2" value="#c9c3a6"/>
-  <color name="fg3" value="#c0bdaf"/>
-  <color name="hl1" value="#9A957E"/>
-  <color name="hl2" value="#807C64"/>
-  <color name="hl3" value="#64604E"/>
+  <color name="bg1" value="#D5D0C2"/>
+  <color name="bg2" value="#CAC4B3"/>
+  <color name="bg3" value="#C0B9A4"/>
+  <color name="fg1" value="#856F2C"/>
+  <color name="fg2" value="#937C38"/>
+  <color name="fg3" value="#A08944"/>
+  <color name="hl1" value="#A59259"/>
+  <color name="hl2" value="#AE9D69"/>
+  <color name="hl3" value="#B7A87A"/>
 
-  <color name="c1" value="#dd889d"/>
-  <color name="c2" value="#CEDC88"/>
-  <color name="c3" value="#8cc6d9"/>
-  <color name="c4" value="#8cd9b3"/>
-  <color name="c5" value="#8c9fd9"/>
-  <color name="c6" value="#d98cc6"/>
+  <color name="c1" value="#8F2C23"/>
+  <color name="c2" value="#A05811"/>
+  <color name="c3" value="#238F74"/>
+  <color name="c4" value="#60862B"/>
+  <color name="c5" value="#23598F"/>
+  <color name="c6" value="#47238F"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
