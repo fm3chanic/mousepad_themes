@@ -5,8 +5,8 @@
 
   <!-- color values  -->
   <color name="bg1" value="#020E1E"/>
-  <color name="bg2" value="#0E2F36"/>
-  <color name="bg3" value="#00515C"/>
+  <color name="bg2" value="#0D1F35"/>
+  <color name="bg3" value="#122949"/>
   <color name="fg1" value="#B7EFFA"/>
   <color name="fg2" value="#87E4F7"/>
   <color name="fg3" value="#59DAF4"/>
@@ -16,10 +16,10 @@
 
   <color name="c1" value="#C44D69"/>
   <color name="c2" value="#E48269"/>
-  <color name="c3" value="#A2E08D"/>
-  <color name="c4" value="#6B9752"/>
-  <color name="c5" value="#2E68BA"/>
-  <color name="c6" value="#D26DE3"/>
+  <color name="c3" value="#52C58C"/>
+  <color name="c4" value="#96C552"/>
+  <color name="c5" value="#5282C5"/>
+  <color name="c6" value="#B94DCB"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
