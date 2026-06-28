@@ -4,9 +4,9 @@
     <_description>industrial-dark by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#313326"/>
-  <color name="bg2" value="#3C3C33"/>
-  <color name="bg3" value="#4A4D41"/>
+  <color name="bg1" value="#303127"/>
+  <color name="bg2" value="#3D3D30"/>
+  <color name="bg3" value="#4A4E3E"/>
   <color name="fg1" value="#E4E2C5"/>
   <color name="fg2" value="#D3D0A0"/>
   <color name="fg3" value="#B3B18B"/>
@@ -14,12 +14,12 @@
   <color name="hl2" value="#7B7F68"/>
   <color name="hl3" value="#686B58"/>
 
-  <color name="c1" value="#E25C50"/>
-  <color name="c2" value="#E0A850"/>
+  <color name="c1" value="#C17670"/>
+  <color name="c2" value="#DAA655"/>
   <color name="c3" value="#71B7C1"/>
   <color name="c4" value="#B3C271"/>
-  <color name="c5" value="#6588CC"/>
-  <color name="c6" value="#DF53AC"/>
+  <color name="c5" value="#6F8BC1"/>
+  <color name="c6" value="#C170A4"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

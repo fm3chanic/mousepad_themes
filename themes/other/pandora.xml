@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="ice-shelf" _name="ice-shelf" version="1.0">
+<style-scheme id="pandora" _name="pandora" version="1.0">
     <author>fm3chanic</author>
-    <_description>ice-shelf by fm3chanic</_description>
+    <_description>pandora by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#cddee4"/>
-  <color name="bg2" value="#bdd3db"/>
-  <color name="bg3" value="#acc8d2"/>
-  <color name="fg1" value="#21292c"/>
-  <color name="fg2" value="#364449"/>
-  <color name="fg3" value="#4c5f67"/>
-  <color name="hl1" value="#628484"/>
-  <color name="hl2" value="#7b9d9d"/>
-  <color name="hl3" value="#98b3b3"/>
+  <color name="bg1" value="#d1d1ba"/>
+  <color name="bg2" value="#c5c5a8"/>
+  <color name="bg3" value="#bcbc9b"/>
+  <color name="fg1" value="#2b171e"/>
+  <color name="fg2" value="#482c35"/>
+  <color name="fg3" value="#63464f"/>
+  <color name="hl1" value="#787162"/>
+  <color name="hl2" value="#8c8472"/>
+  <color name="hl3" value="#9d9687"/>
 
-  <color name="c1" value="#931f1f"/>
-  <color name="c2" value="#a17d12"/>
-  <color name="c3" value="#1f9376"/>
-  <color name="c4" value="#76931f"/>
-  <color name="c5" value="#1f7693"/>
-  <color name="c6" value="#862d59"/>
+  <color name="c1" value="#882d22"/>
+  <color name="c2" value="#976611"/>
+  <color name="c3" value="#2a727c"/>
+  <color name="c4" value="#6d7b2f"/>
+  <color name="c5" value="#29507e"/>
+  <color name="c6" value="#822481"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
