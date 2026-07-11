@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="breath-dark" _name="breath-dark" version="1.0">
+<style-scheme id="cmd-advanced_built" _name="cmd-advanced_built" version="1.0">
     <author>fm3chanic</author>
-    <_description>breath-dark by fm3chanic</_description>
+    <_description>cmd-advanced by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#292D2C"/>
-  <color name="bg2" value="#353A39"/>
-  <color name="bg3" value="#414845"/>
-  <color name="fg1" value="#b4c7ca"/>
-  <color name="fg2" value="#98b0b6"/>
-  <color name="fg3" value="#82a0a6"/>
-  <color name="hl1" value="#808C77"/>
-  <color name="hl2" value="#6F7A67"/>
-  <color name="hl3" value="#5E6757"/>
+  <color name="bg1" value="#1B191C"/>
+  <color name="bg2" value="#282529"/>
+  <color name="bg3" value="#353136"/>
+  <color name="fg1" value="#D1CCD1"/>
+  <color name="fg2" value="#AFA8AF"/>
+  <color name="fg3" value="#9D959E"/>
+  <color name="hl1" value="#847A86"/>
+  <color name="hl2" value="#6A626C"/>
+  <color name="hl3" value="#504A51"/>
 
-  <color name="c1" value="#c86c85"/>
-  <color name="c2" value="#c4cb71"/>
-  <color name="c3" value="#73c2b2"/>
-  <color name="c4" value="#66CF82"/>
-  <color name="c5" value="#5B9BD6"/>
-  <color name="c6" value="#c669b5"/>
+  <color name="c1" value="#E05050"/>
+  <color name="c2" value="#F1BC5B"/>
+  <color name="c3" value="#54C6C5"/>
+  <color name="c4" value="#A9C653"/>
+  <color name="c5" value="#6681CC"/>
+  <color name="c6" value="#C55299"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
