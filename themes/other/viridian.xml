@@ -4,9 +4,9 @@
     <_description>viridian by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#373631"/>
-  <color name="bg2" value="#45443d"/>
-  <color name="bg3" value="#515048"/>
+  <color name="bg1" value="#37382F"/>
+  <color name="bg2" value="#43443A"/>
+  <color name="bg3" value="#515246"/>
   <color name="fg1" value="#d9d3c5"/>
   <color name="fg2" value="#c5bba5"/>
   <color name="fg3" value="#b7ac90"/>
@@ -15,9 +15,9 @@
   <color name="hl3" value="#816d4c"/>
 
   <color name="c1" value="#bc7486"/>
-  <color name="c2" value="#d2a963"/>
-  <color name="c3" value="#76bfa2"/>
-  <color name="c4" value="#92Ba73"/>
+  <color name="c2" value="#D2B662"/>
+  <color name="c3" value="#76BFAC"/>
+  <color name="c4" value="#A8BA72"/>
   <color name="c5" value="#807abc"/>
   <color name="c6" value="#ad7abc"/>
 
