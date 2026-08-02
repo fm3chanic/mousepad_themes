@@ -4,9 +4,9 @@
     <_description>cryochamber by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#1b1a19"/>
-  <color name="bg2" value="#272624"/>
-  <color name="bg3" value="#363432"/>
+  <color name="bg1" value="#1C1A17"/>
+  <color name="bg2" value="#282622"/>
+  <color name="bg3" value="#38342F"/>
   <color name="fg1" value="#c0c9af"/>
   <color name="fg2" value="#a6ae99"/>
   <color name="fg3" value="#899481"/>
@@ -14,12 +14,12 @@
   <color name="hl2" value="#646d5d"/>
   <color name="hl3" value="#545b4e"/>
 
-  <color name="c1" value="#bb5f7e"/>
-  <color name="c2" value="#c68a3a"/>
-  <color name="c3" value="#6baf87"/>
-  <color name="c4" value="#97ac6b"/>
-  <color name="c5" value="#5fa2bb"/>
-  <color name="c6" value="#bb5fba"/>
+  <color name="c1" value="#C08A9D"/>
+  <color name="c2" value="#DBAD70"/>
+  <color name="c3" value="#8AC0A1"/>
+  <color name="c4" value="#AFC08A"/>
+  <color name="c5" value="#8AB1C0"/>
+  <color name="c6" value="#C08ABF"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
