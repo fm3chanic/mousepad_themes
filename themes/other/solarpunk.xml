@@ -4,15 +4,15 @@
     <_description>solarpunk by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#283f48"/>
-  <color name="bg2" value="#324e58"/>
-  <color name="bg3" value="#3b5c68"/>
-  <color name="fg1" value="#eceee8"/>
-  <color name="fg2" value="#d5d8ca"/>
-  <color name="fg3" value="#bec2ad"/>
-  <color name="hl1" value="#8fa4ad"/>
-  <color name="hl2" value="#728c97"/>
-  <color name="hl3" value="#5b727b"/>
+  <color name="bg1" value="#1B2B31"/>
+  <color name="bg2" value="#243941"/>
+  <color name="bg3" value="#2E4851"/>
+  <color name="fg1" value="#DADED3"/>
+  <color name="fg2" value="#C4C8B5"/>
+  <color name="fg3" value="#ADB298"/>
+  <color name="hl1" value="#7B939D"/>
+  <color name="hl2" value="#617A83"/>
+  <color name="hl3" value="#4B5F66"/>
 
   <color name="c1" value="#d65c5e"/>
   <color name="c2" value="#ebba47"/>
