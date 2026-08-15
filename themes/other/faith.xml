@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="viridian-darker" _name="viridian-darker" version="1.0">
+<style-scheme id="faith" _name="faith" version="1.0">
     <author>fm3chanic</author>
-    <_description>viridian-darker by fm3chanic</_description>
+    <_description>faith by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#23241E"/>
-  <color name="bg2" value="#30312A"/>
-  <color name="bg3" value="#3E3F35"/>
-  <color name="fg1" value="#D0C9B8"/>
-  <color name="fg2" value="#BDB198"/>
-  <color name="fg3" value="#A89B79"/>
-  <color name="hl1" value="#977F58"/>
-  <color name="hl2" value="#806C4B"/>
-  <color name="hl3" value="#69593E"/>
+  <color name="bg1" value="#332132"/>
+  <color name="bg2" value="#452d43"/>
+  <color name="bg3" value="#553753"/>
+  <color name="fg1" value="#fff1d5"/>
+  <color name="fg2" value="#f6dead"/>
+  <color name="fg3" value="#d4c09a"/>
+  <color name="hl1" value="#956193"/>
+  <color name="hl2" value="#7f537d"/>
+  <color name="hl3" value="#6a4568"/>
 
-  <color name="c1" value="#C48696"/>
-  <color name="c2" value="#D7BE74"/>
-  <color name="c3" value="#8AC0B2"/>
-  <color name="c4" value="#B3C08A"/>
-  <color name="c5" value="#8F8AC0"/>
-  <color name="c6" value="#B48AC0"/>
+  <color name="c1" value="#ba6c5e"/>
+  <color name="c2" value="#baab5e"/>
+  <color name="c3" value="#5ebab5"/>
+  <color name="c4" value="#8cb068"/>
+  <color name="c5" value="#6b67b1"/>
+  <color name="c6" value="#b1677b"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>

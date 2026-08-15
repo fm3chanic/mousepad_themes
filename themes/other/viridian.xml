@@ -4,22 +4,22 @@
     <_description>viridian by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#37382F"/>
-  <color name="bg2" value="#43443A"/>
-  <color name="bg3" value="#515246"/>
-  <color name="fg1" value="#d9d3c5"/>
-  <color name="fg2" value="#c5bba5"/>
-  <color name="fg3" value="#b7ac90"/>
-  <color name="hl1" value="#a8916a"/>
-  <color name="hl2" value="#988059"/>
-  <color name="hl3" value="#816d4c"/>
+  <color name="bg1" value="#2b2f29"/>
+  <color name="bg2" value="#373c34"/>
+  <color name="bg3" value="#454b41"/>
+  <color name="fg1" value="#efeddc"/>
+  <color name="fg2" value="#d7d3b3"/>
+  <color name="fg3" value="#bfbc95"/>
+  <color name="hl1" value="#798472"/>
+  <color name="hl2" value="#687162"/>
+  <color name="hl3" value="#575f52"/>
 
-  <color name="c1" value="#C48696"/>
-  <color name="c2" value="#D7BE74"/>
-  <color name="c3" value="#8AC0B2"/>
-  <color name="c4" value="#B3C08A"/>
-  <color name="c5" value="#8F8AC0"/>
-  <color name="c6" value="#B48AC0"/>
+  <color name="c1" value="#c17b71"/>
+  <color name="c2" value="#c0a659"/>
+  <color name="c3" value="#5fbab5"/>
+  <color name="c4" value="#a2b77a"/>
+  <color name="c5" value="#8d7bb8"/>
+  <color name="c6" value="#b27bb8"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
