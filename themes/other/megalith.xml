@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="millenium" _name="millenium" version="1.0">
+<style-scheme id="megalith" _name="megalith" version="1.0">
     <author>fm3chanic</author>
-    <_description>millenium by fm3chanic</_description>
+    <_description>megalith by fm3chanic</_description>
 
   <!-- color values  -->
-  <color name="bg1" value="#2e2b2f"/>
-  <color name="bg2" value="#3a363b"/>
-  <color name="bg3" value="#474248"/>
-  <color name="fg1" value="#b5aeb7"/>
-  <color name="fg2" value="#a59da6"/>
-  <color name="fg3" value="#918993"/>
-  <color name="hl1" value="#796f7c"/>
-  <color name="hl2" value="#685f6a"/>
-  <color name="hl3" value="#554d55"/>
+  <color name="bg1" value="#33362e"/>
+  <color name="bg2" value="#41453a"/>
+  <color name="bg3" value="#4f5347"/>
+  <color name="fg1" value="#b9bdb1"/>
+  <color name="fg2" value="#a7ac9d"/>
+  <color name="fg3" value="#979d8b"/>
+  <color name="hl1" value="#868c79"/>
+  <color name="hl2" value="#747a68"/>
+  <color name="hl3" value="#616657"/>
 
-  <color name="c1" value="#da9694"/>
-  <color name="c2" value="#fabf8f"/>
-  <color name="c3" value="#92cddc"/>
-  <color name="c4" value="#c4d79b"/>
-  <color name="c5" value="#97b3d5"/>
-  <color name="c6" value="#b1a0c7"/>
+  <color name="c1" value="#cd7867"/>
+  <color name="c2" value="#dcaf57"/>
+  <color name="c3" value="#7bb1b8"/>
+  <color name="c4" value="#91b87b"/>
+  <color name="c5" value="#8d7bb8"/>
+  <color name="c6" value="#b17bb8"/>
 
   <!-- global -->
   <style name="text"                        foreground="fg1" background="bg1"/>
