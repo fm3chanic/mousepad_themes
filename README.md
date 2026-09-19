@@ -1,5 +1,8 @@
 ## fm3chanic Themes for Mousepad
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for the Mousepad plain-text editor I've created so far.<br> 
 It is the text editor which comes with the XFCE4 desktop environment for Linux.
 
